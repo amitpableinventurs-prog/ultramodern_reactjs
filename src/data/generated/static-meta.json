@@ -1,0 +1,360 @@
+{
+ "/": {
+  "title": "Best Website Development Company in Indore | UltraModern Technologies",
+  "description": "UltraModern Technologies is Indore's trusted digital marketing and web development agency. SEO, Google Ads, social media, custom websites. Get a free consultation today.",
+  "robots": "index, follow",
+  "canonical": "https://www.ultramoderntechnologies.com/",
+  "jsonLd": [
+   {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "UltraModern Technologies Pvt Ltd.",
+    "image": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+    "url": "https://ultramoderntechnologies.com/",
+    "telephone": "+91-8640089400",
+    "email": "ultramoderntechnologies01@gmail.com",
+    "logo": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "565, Sapna Sangeeta Rd, nearby Axis Bank, Snehnagar",
+     "addressLocality": "Indore",
+     "addressRegion": "Madhya Pradesh",
+     "postalCode": "452001",
+     "addressCountry": "IN"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "22.7196",
+     "longitude": "75.8577"
+    },
+    "openingHoursSpecification": {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+     ],
+     "opens": "10:00",
+     "closes": "19:00"
+    },
+    "sameAs": [
+     "https://www.facebook.com/people/Ultra-Modern-Technologies/61550345835440/",
+     "https://www.instagram.com/ultramodern_technologies/",
+     "https://www.linkedin.com/company/ultramodern-technology"
+    ],
+    "hasMap": "https://www.google.com/maps/place/UltraModern+Technologies+Pvt.+Ltd./data=!4m2!3m1!1s0x0:0x687eaae2d2acdc7a?sa=X&ved=1t:2428&ictx=111",
+    "priceRange": "$$"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Do I really need a professional website for my business?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A professional website helps build trust, improves online visibility, and makes it easier for customers to learn about your services and contact your business. It also supports long-term business growth."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does it take to build a custom website?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Typical business websites take 4–6 weeks, while complex e-commerce or custom web applications may take 8–12 weeks depending on requirements."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Why is my website not getting traffic from Google?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Poor website structure, slow speed, weak content, and technical SEO issues can affect rankings. Proper SEO optimization improves visibility and traffic."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What makes a website SEO-friendly?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "An SEO-friendly website includes fast loading speed, mobile responsiveness, optimized content, proper structure, and strong technical SEO setup."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which is better for my business: SEO or Google Ads?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "SEO builds long-term organic traffic, while Google Ads gives immediate results. Most businesses use both for better performance and lead generation."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How can social media marketing help my business grow?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Social media marketing increases brand awareness, engagement, and leads by targeting customers on platforms like Facebook, Instagram, and LinkedIn."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What does a software development company actually do?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A software development company builds custom software, CRM systems, business tools, and automation solutions based on business needs."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is included in mobile app development services?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Mobile app development includes designing, developing, testing, and deploying Android and iOS apps with UI/UX design, performance optimization, and updates."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "UltraModern Technologies",
+    "url": "https://ultramoderntechnologies.com/",
+    "description": "UltraModern Technologies is a leading IT company offering website development, SEO, digital marketing, software development, and AI solutions in India."
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": [
+     "Organization",
+     "LocalBusiness"
+    ],
+    "@id": "https://ultramoderntechnologies.com/#organization",
+    "name": "UltraModern Technologies Pvt Ltd.",
+    "url": "https://ultramoderntechnologies.com/",
+    "logo": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+    "image": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+    "description": "UltraModern Technologies Pvt Ltd. is a leading IT company in Indore providing Website Development, Software Development, Mobile App Development, SEO Services, Digital Marketing, UI UX Design, CRM Development, AI & Machine Learning, E-Commerce Solutions and IT Consulting Services across India.",
+    "telephone": "+91-8640089400",
+    "email": "ultramoderntechnologies01@gmail.com",
+    "priceRange": "$$",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "565, Sapna Sangeeta Rd, nearby Axis Bank, Snehnagar",
+     "addressLocality": "Indore",
+     "addressRegion": "Madhya Pradesh",
+     "postalCode": "452001",
+     "addressCountry": "IN"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Indore"
+     },
+     {
+      "@type": "State",
+      "name": "Madhya Pradesh"
+     },
+     {
+      "@type": "Country",
+      "name": "India"
+     }
+    ],
+    "openingHours": "Mo-Sa 10:00-19:00",
+    "sameAs": [
+     "https://www.facebook.com/people/Ultra-Modern-Technologies/61550345835440/",
+     "https://www.instagram.com/ultramodern_technologies/",
+     "https://www.linkedin.com/company/ultramodern-technology"
+    ],
+    "hasMap": "https://www.google.com/maps/place/UltraModern+Technologies+Pvt.+Ltd./",
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "telephone": "+91-8640089400",
+     "contactType": "customer support",
+     "areaServed": "IN",
+     "availableLanguage": [
+      "English",
+      "Hindi"
+     ]
+    },
+    "knowsAbout": [
+     "Website Development",
+     "Software Development",
+     "Mobile App Development",
+     "SEO Services",
+     "Digital Marketing",
+     "Google Ads",
+     "Social Media Marketing",
+     "UI UX Design",
+     "CRM Development",
+     "Artificial Intelligence",
+     "Machine Learning",
+     "E-Commerce Development",
+     "IT Consulting"
+    ]
+   }
+  ]
+ },
+ "/about": {
+  "title": "About UltraModern Technologies | Best Website Development Company in Indore",
+  "description": "UltraModern Technologies is a leading website development company, mobile app development company, and digital marketing agency in Indore. Discover our story, team, and full-service IT solutions.",
+  "keywords": "best website development company, website development services, mobile app development company, seo services company, digital marketing agency, software development company, AI machine learning solutions, IT consulting services, ultramodern technologies, web development india, about ultramodern technologies",
+  "canonical": "https://www.ultramoderntechnologies.com/about.html",
+  "jsonLd": [
+   {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "UltraModern Technologies Pvt Ltd.",
+    "image": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+    "url": "https://ultramoderntechnologies.com/",
+    "telephone": "+91-8640089400",
+    "email": "ultramoderntechnologies01@gmail.com",
+    "logo": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "565, Sapna Sangeeta Rd, nearby Axis Bank, Snehnagar",
+     "addressLocality": "Indore",
+     "addressRegion": "Madhya Pradesh",
+     "postalCode": "452001",
+     "addressCountry": "IN"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "22.7196",
+     "longitude": "75.8577"
+    },
+    "openingHoursSpecification": {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+     ],
+     "opens": "10:00",
+     "closes": "19:00"
+    },
+    "sameAs": [
+     "https://www.facebook.com/people/Ultra-Modern-Technologies/61550345835440/",
+     "https://www.instagram.com/ultramodern_technologies/",
+     "https://www.linkedin.com/company/ultramodern-technology"
+    ],
+    "hasMap": "https://www.google.com/maps/place/UltraModern+Technologies+Pvt.+Ltd./data=!4m2!3m1!1s0x0:0x687eaae2d2acdc7a?sa=X&ved=1t:2428&ictx=111",
+    "priceRange": "$$"
+   }
+  ]
+ },
+ "/contact": {
+  "title": "Contact UltraModern Technologies | Best Website Development Company in Indore",
+  "description": "Get in touch with UltraModern Technologies the Best Website Development Company in Indore. Reach us for website development, software, mobile apps, or digital marketing. We respond within 24 hours.",
+  "keywords": "contact ultramodern technologies, best website development company in indore, website development company in indore, web development services in indore, software development company in indore, mobile app development company in indore, digital marketing company in indore, website design company in indore, get in touch ultramodern technologies, business enquiry indore it company",
+  "canonical": "https://www.ultramoderntechnologies.com/contact.html",
+  "jsonLd": [
+   {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "UltraModern Technologies Pvt Ltd.",
+    "image": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+    "url": "https://ultramoderntechnologies.com/",
+    "telephone": "+91-8640089400",
+    "email": "ultramoderntechnologies01@gmail.com",
+    "logo": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "565, Sapna Sangeeta Rd, nearby Axis Bank, Snehnagar",
+     "addressLocality": "Indore",
+     "addressRegion": "Madhya Pradesh",
+     "postalCode": "452001",
+     "addressCountry": "IN"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "22.7196",
+     "longitude": "75.8577"
+    },
+    "openingHoursSpecification": {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+     ],
+     "opens": "10:00",
+     "closes": "19:00"
+    },
+    "sameAs": [
+     "https://www.facebook.com/people/Ultra-Modern-Technologies/61550345835440/",
+     "https://www.instagram.com/ultramodern_technologies/",
+     "https://www.linkedin.com/company/ultramodern-technology"
+    ],
+    "hasMap": "https://www.google.com/maps/place/UltraModern+Technologies+Pvt.+Ltd./data=!4m2!3m1!1s0x0:0x687eaae2d2acdc7a?sa=X&ved=1t:2428&ictx=111",
+    "priceRange": "$$"
+   }
+  ]
+ },
+ "/career": {
+  "title": "Careers at UltraModern Technologies | Join the Best Tech Team in Indore",
+  "description": "Join UltraModern Technologies — the Best Website Development Company in Indore. Explore exciting career opportunities in web development, digital marketing, software design, and more. Grow with a dynamic team.",
+  "keywords": "careers at ultramodern technologies, jobs in indore it company, web development jobs indore, digital marketing jobs indore, software developer career indore, mobile app developer jobs indore, it consulting careers, work with us indore, apply for jobs indore",
+  "canonical": "https://www.ultramoderntechnologies.com/careers.html"
+ },
+ "/blog": {
+  "title": "Tech Insights & Updates | UltraModern Technologies Blog",
+  "description": "Explore the UltraModern Technologies Blog for the latest insights on web development, digital marketing, software solutions, and emerging tech trends.",
+  "keywords": "ultramodern technologies blog, tech blog by ultramodern technologies, web development blogs, digital marketing insights, IT solutions articles, software development blog, technology trends 2025, business growth tips online, web design & development news, latest updates from ultramodern technologies",
+  "robots": "index, follow",
+  "canonical": "https://www.ultramoderntechnologies.com/blog.html",
+  "jsonLd": [
+   {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "UltraModern Technologies Pvt Ltd.",
+    "image": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+    "url": "https://ultramoderntechnologies.com/",
+    "telephone": "+91-8640089400",
+    "email": "ultramoderntechnologies01@gmail.com",
+    "logo": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "565, Sapna Sangeeta Rd, nearby Axis Bank, Snehnagar",
+     "addressLocality": "Indore",
+     "addressRegion": "Madhya Pradesh",
+     "postalCode": "452001",
+     "addressCountry": "IN"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "22.7196",
+     "longitude": "75.8577"
+    },
+    "openingHoursSpecification": {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+     ],
+     "opens": "10:00",
+     "closes": "19:00"
+    },
+    "sameAs": [
+     "https://www.facebook.com/people/Ultra-Modern-Technologies/61550345835440/",
+     "https://www.instagram.com/ultramodern_technologies/",
+     "https://www.linkedin.com/company/ultramodern-technology"
+    ],
+    "hasMap": "https://www.google.com/maps/place/UltraModern+Technologies+Pvt.+Ltd./data=!4m2!3m1!1s0x0:0x687eaae2d2acdc7a?sa=X&ved=1t:2428&ictx=111",
+    "priceRange": "$$"
+   }
+  ]
+ }
+}

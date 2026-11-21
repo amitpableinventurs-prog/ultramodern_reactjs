@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-server
+umt-data
+public/uploads/*
+!public/uploads/.htaccess
+backups/
+_previous-attempt/

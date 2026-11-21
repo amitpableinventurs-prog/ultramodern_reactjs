@@ -1,0 +1,14 @@
+Options -Indexes
+
+# Never serve internals directly
+<FilesMatch "^(config\.php|cli\.php|dev-router\.php|seed\.json)$">
+  Require all denied
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^lib(/|$) - [F,L]
+  # render.php and sitemap.php are called directly by the site's rewrite rules
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^ index.php [QSA,L]
+</IfModule>

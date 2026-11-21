@@ -1,0 +1,4393 @@
+[
+ {
+  "slug": "Android-Developer-Jobs",
+  "meta": {
+   "title": "Android App Developer Jobs in Indore",
+   "description": "Apply for Android App Developer jobs in Indore at UltraModern Technologies. Work with Kotlin, Jetpack Compose & Firebase on real mobile app projects. Freshers & experienced developers welcome.",
+   "keywords": "android developer jobs, android app developer jobs in indore, kotlin developer jobs, jetpack compose, firebase, mobile app development indore"
+  },
+  "hero": {
+   "title": "Android App Developer Job in Indore",
+   "image": "https://cdn-icons-png.flaticon.com/512/7991/7991055.png",
+   "badge": "We're Hiring Android Developers!",
+   "text": [
+    "We are hiring passionate Android App Developers in Indore who want to build real-world mobile applications used by real businesses. At UltraModern Technologies, Indore, we develop scalable Android apps using Kotlin, Jetpack Compose, and modern Android architecture. Whether you're a fresher or an experienced Android developer, we offer the right environment to grow your career."
+   ]
+  },
+  "sections": [
+   {
+    "kind": "stats",
+    "title": null,
+    "badge": null,
+    "parts": [
+     {
+      "type": "stats",
+      "items": [
+       {
+        "value": "50+",
+        "label": "Android Projects Delivered"
+       },
+       {
+        "value": "200+",
+        "label": "Apps Developed"
+       },
+       {
+        "value": "15+",
+        "label": "Android Team Members"
+       },
+       {
+        "value": "95%",
+        "label": "Client Satisfaction"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Build Your Android Developer Career in Indore",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "UltraModern Technologies is a growing IT company in Indore offering exciting opportunities for Android developers. We work on domestic and international mobile app projects across industries like healthcare, retail, logistics, and enterprise solutions. If you're looking for Android App Developer jobs in Indore, this is where you can learn, grow, and build production-level applications."
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Why Android Developers Choose Our Indore Office",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "We offer the perfect environment to accelerate your Android career."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-rocket",
+        "title": "Career Growth for Android Developers in Indore",
+        "text": [
+         "We provide a structured growth path from Junior Android Developer → Senior Developer → Team Lead → Architect with real project ownership."
+        ]
+       },
+       {
+        "icon": "fas fa-globe",
+        "title": "International Android Project Exposure",
+        "text": [
+         "Work on global mobile applications with high performance standards, real users, and scalable architecture."
+        ]
+       },
+       {
+        "icon": "fas fa-laptop-house",
+        "title": "Flexible Work Options in Indore",
+        "text": [
+         "We offer hybrid and remote work options based on project requirements for Android developer roles."
+        ]
+       },
+       {
+        "icon": "fas fa-code",
+        "title": "Learn Modern Android Technologies",
+        "text": [
+         "Work with Kotlin, Jetpack Compose, MVVM, Firebase, and REST APIs in real production environments."
+        ]
+       },
+       {
+        "icon": "fas fa-trophy",
+        "title": "Performance-Based Growth & Salary",
+        "text": [
+         "We reward developers based on performance, code quality, ownership, and delivery impact."
+        ]
+       },
+       {
+        "icon": "fas fa-users",
+        "title": "Strong Engineering Culture in Indore",
+        "text": [
+         "Work with developers who focus on clean code, architecture, and real technical discussions – not just task completion."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "jobs",
+    "title": null,
+    "badge": null,
+    "parts": [
+     {
+      "type": "jobs",
+      "items": [
+       {
+        "title": "Senior Android Developer (Kotlin + Compose)",
+        "level": "Verified",
+        "meta": [
+         "Indore",
+         "Full-time"
+        ],
+        "tags": [
+         "Kotlin",
+         "Compose",
+         "Urgent"
+        ],
+        "salary": "₹8L - ₹15L /year",
+        "featured": true
+       },
+       {
+        "title": "Junior Android Developer (Freshers Welcome)",
+        "level": "Verified",
+        "meta": [
+         "Indore",
+         "Full-time"
+        ],
+        "tags": [
+         "Java",
+         "Android SDK",
+         "New"
+        ],
+        "salary": "₹3L - ₹6L /year",
+        "featured": false
+       },
+       {
+        "title": "Android Team Lead (Indore)",
+        "level": "Team Lead",
+        "meta": [
+         "Indore",
+         "Full-time"
+        ],
+        "tags": [
+         "Kotlin",
+         "Dagger",
+         "Hot"
+        ],
+        "salary": "₹15L - ₹25L /year",
+        "featured": false
+       },
+       {
+        "title": "Flutter / Android Developer (Remote)",
+        "level": "Remote",
+        "meta": [
+         "Remote",
+         "Full-time"
+        ],
+        "tags": [
+         "Flutter",
+         "Firebase",
+         "Remote"
+        ],
+        "salary": "₹6L - ₹12L /year",
+        "featured": false
+       },
+       {
+        "title": "Android Intern (Indore)",
+        "level": "Internship",
+        "meta": [
+         "Indore",
+         "Internship"
+        ],
+        "tags": [
+         "Java",
+         "Basics",
+         "Fresher"
+        ],
+        "salary": "₹10K - ₹15K /month",
+        "featured": false
+       },
+       {
+        "title": "Android UI/UX Engineer (Indore)",
+        "level": "Design",
+        "meta": [
+         "Indore",
+         "Hybrid"
+        ],
+        "tags": [
+         "Compose",
+         "Material 3"
+        ],
+        "salary": "₹5L - ₹10L /year",
+        "featured": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Android App Developer Responsibilities in Indore",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "As an Android Developer at UltraModern Technologies Indore, you will:"
+      ]
+     },
+     {
+      "type": "list",
+      "items": [
+       "Design and develop Android applications using Kotlin",
+       "Build scalable mobile apps using Jetpack Compose and MVVM architecture",
+       "Integrate REST APIs and third-party SDKs",
+       "Work with Firebase services like Authentication, Firestore, and Push Notifications",
+       "Manage local databases using Room and SQLite",
+       "Optimize Android app performance for all device types",
+       "Handle Play Store deployment and version management",
+       "Work with UI/UX teams to implement modern Android designs",
+       "Debug, test, and maintain production-level Android applications"
+      ]
+     },
+     {
+      "type": "subheading",
+      "items": [
+       "Skills Required for Android Developer Jobs in Indore"
+      ]
+     },
+     {
+      "type": "chips",
+      "items": [
+       {
+        "icon": "fab fa-android",
+        "text": "Kotlin (Mandatory)"
+       },
+       {
+        "icon": "fab fa-java",
+        "text": "Java (Basic)"
+       },
+       {
+        "icon": "fas fa-mobile-alt",
+        "text": "Android SDK & Lifecycle"
+       },
+       {
+        "icon": "fas fa-layer-group",
+        "text": "MVVM Architecture"
+       },
+       {
+        "icon": "fas fa-paint-brush",
+        "text": "Jetpack Compose"
+       },
+       {
+        "icon": "fas fa-code",
+        "text": "REST API Integration"
+       },
+       {
+        "icon": "fas fa-cloud",
+        "text": "Firebase"
+       },
+       {
+        "icon": "fas fa-database",
+        "text": "Room / SQLite"
+       },
+       {
+        "icon": "fab fa-git-alt",
+        "text": "Git & GitHub"
+       },
+       {
+        "icon": "fas fa-palette",
+        "text": "Material Design 3"
+       }
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "<strong>Education:</strong> BCA / B.Tech / MCA or equivalent experience. Strong Android portfolio or GitHub projects preferred."
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Android Development Technologies We Use in Indore Office",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "We use modern mobile development tools including:"
+      ]
+     },
+     {
+      "type": "chips",
+      "items": [
+       {
+        "icon": "fab fa-android",
+        "text": "Kotlin (Primary Language)"
+       },
+       {
+        "icon": "fab fa-java",
+        "text": "Java (Legacy Support)"
+       },
+       {
+        "icon": "fas fa-laptop-code",
+        "text": "Android Studio"
+       },
+       {
+        "icon": "fas fa-paint-brush",
+        "text": "Jetpack Compose"
+       },
+       {
+        "icon": "fas fa-fire",
+        "text": "Firebase Platform"
+       },
+       {
+        "icon": "fas fa-code",
+        "text": "REST APIs & JSON"
+       },
+       {
+        "icon": "fas fa-database",
+        "text": "SQLite & Room Database"
+       },
+       {
+        "icon": "fab fa-git-alt",
+        "text": "Git & GitHub"
+       },
+       {
+        "icon": "fas fa-layer-group",
+        "text": "MVVM Architecture Pattern"
+       },
+       {
+        "icon": "fas fa-palette",
+        "text": "Material Design 3 Guidelines"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Android Developer Career Growth in Indore",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "At UltraModern Technologies, Android developers can grow through structured levels:"
+      ]
+     },
+     {
+      "type": "chips",
+      "items": [
+       {
+        "icon": null,
+        "text": "Android Developer (Junior to Mid Level)"
+       },
+       {
+        "icon": null,
+        "text": "Senior Android Developer"
+       },
+       {
+        "icon": null,
+        "text": "Team Lead (Android Development)"
+       },
+       {
+        "icon": null,
+        "text": "Mobile Architect"
+       },
+       {
+        "icon": null,
+        "text": "Engineering Manager"
+       }
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "We focus on skill-based promotion, not just experience-based growth."
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "process",
+    "title": "Android Developer Hiring Process in Indore",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Join UltraModern Technologies in 4 simple steps"
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-file-alt",
+        "title": "Application Review",
+        "text": [
+         "Submit your resume along with your GitHub profile or portfolio."
+        ],
+        "step": "1"
+       },
+       {
+        "icon": "fas fa-laptop-code",
+        "title": "Technical Assignment",
+        "text": [
+         "Complete a real-world Android task to showcase your skills."
+        ],
+        "step": "2"
+       },
+       {
+        "icon": "fas fa-comments",
+        "title": "Technical Interview",
+        "text": [
+         "Discuss architecture, coding, and problem-solving approaches."
+        ],
+        "step": "3"
+       },
+       {
+        "icon": "fas fa-handshake",
+        "title": "HR Round & Offer",
+        "text": [
+         "Final discussion and offer letter."
+        ],
+        "step": "4"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Work Culture at UltraModern Technologies Indore",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "We are a professional IT company in Indore focused on engineering quality and structured development."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-users",
+        "title": "Collaborative Android Development Team",
+        "text": [
+         "Work closely with product managers, designers, and backend engineers."
+        ]
+       },
+       {
+        "icon": "fas fa-lightbulb",
+        "title": "Direct Involvement in Product Discussions",
+        "text": [
+         "Your ideas matter – we involve developers in product decisions."
+        ]
+       },
+       {
+        "icon": "fas fa-chalkboard-teacher",
+        "title": "Regular Technical Learning Sessions",
+        "text": [
+         "Weekly knowledge sharing and tech talks."
+        ]
+       },
+       {
+        "icon": "fas fa-history",
+        "title": "Postmortem-Based Learning Culture",
+        "text": [
+         "We learn from mistakes and continuously improve."
+        ]
+       },
+       {
+        "icon": "fas fa-building",
+        "title": "Modern Office at Crystal IT Park, Indore",
+        "text": [
+         "Work in a professional and comfortable environment."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "faq",
+    "title": "Android Developer Jobs in Indore – FAQs",
+    "badge": null,
+    "parts": [
+     {
+      "type": "faq",
+      "items": [
+       {
+        "q": "Are Android developer jobs available for freshers in Indore?",
+        "a": "<p>Yes, we hire freshers for Android Developer and internship roles in Indore.</p>"
+       },
+       {
+        "q": "What skills are required for Android developer jobs in Indore?",
+        "a": "<p>Kotlin, Android SDK, Firebase, and basic understanding of MVVM architecture.</p>"
+       },
+       {
+        "q": "Is Jetpack Compose required for Android jobs in Indore?",
+        "a": "<p>It is preferred but not mandatory for entry-level roles.</p>"
+       },
+       {
+        "q": "Do you offer internships for Android development in Indore?",
+        "a": "<p>Yes, internships are available with real project exposure.</p>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Apply for Android App Developer Jobs in Indore Today",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Join UltraModern Technologies and start your career as an Android developer in Indore. Work on real-world mobile applications, modern Android architecture, and international projects."
+      ]
+     },
+     {
+      "type": "buttons",
+      "items": [
+       {
+        "text": "Apply Now for Android Developer Jobs in Indore",
+        "href": "/contact"
+       },
+       {
+        "text": "Contact Our Hiring Team",
+        "href": "/contact"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "angular-developer-jobs",
+  "meta": {
+   "title": "Angular Developer Jobs in Indore",
+   "description": "Apply for Angular Developer Jobs in Indore at UltraModern Technologies. Join our frontend team and build scalable web applications using Angular, TypeScript, and modern UI frameworks. Freshers & experienced developers welcome.",
+   "keywords": "angular developer jobs in indore, angular jobs indore, frontend developer jobs indore, angular fresher jobs indore, angular ngRx jobs indore",
+   "canonical": "https://www.ultramoderntechnologies.com/angular-developer-jobs-in-indore.html",
+   "jsonLd": [
+    [
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Senior Angular Developer",
+      "description": "Build enterprise dashboards, SaaS platforms and scalable web applications using Angular, TypeScript, NgRx at UltraModern Technologies Indore.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-ANGULAR-SENIOR-001"
+      },
+      "datePosted": "2025-01-25",
+      "validThrough": "2025-06-30T00:00",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 800000,
+        "maxValue": 1600000,
+        "unitText": "YEAR"
+       }
+      }
+     },
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Junior Angular Developer",
+      "description": "Build scalable frontend modules using Angular, TypeScript, RxJS at UltraModern Technologies Indore.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-ANGULAR-JUNIOR-002"
+      },
+      "datePosted": "2025-01-25",
+      "validThrough": "2025-06-30T00:00",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 350000,
+        "maxValue": 650000,
+        "unitText": "YEAR"
+       }
+      }
+     },
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Angular Developer Intern",
+      "description": "Internship for Angular frontend development at UltraModern Technologies Indore.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-ANGULAR-INTERN-005"
+      },
+      "datePosted": "2025-01-25",
+      "validThrough": "2025-06-30T00:00",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 10000,
+        "maxValue": 15000,
+        "unitText": "MONTH"
+       }
+      }
+     }
+    ],
+    {
+     "@context": "https://schema.org",
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Is Angular used only for frontend UI here?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. We use Angular to build full-scale frontend systems for enterprise applications."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Do freshers get real project exposure for Angular jobs in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, starting from structured modules and gradually moving to complex features."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is Angular enough or should I know backend too?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angular + API understanding is enough. Backend knowledge is a plus."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What makes this different from other Angular jobs in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You work on scalable enterprise applications, not static UI projects."
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "hero": {
+   "title": "Angular Developer Jobs in Indore",
+   "image": null,
+   "badge": "Now Hiring Angular Developers in Indore!",
+   "text": [
+    "At UltraModern Technologies, Angular developers don't just \"code UI\" they engineer complete frontend systems that handle real business operations at scale.<br><br>Whether you are a fresher or an experienced frontend developer in Indore, if you understand component thinking you belong here."
+   ]
+  },
+  "sections": [
+   {
+    "kind": "stats",
+    "title": null,
+    "badge": null,
+    "parts": [
+     {
+      "type": "stats",
+      "items": [
+       {
+        "value": "35+",
+        "label": "Enterprise Angular Apps"
+       },
+       {
+        "value": "120+",
+        "label": "Frontend Developers"
+       },
+       {
+        "value": "4+",
+        "label": "Open Angular Roles"
+       },
+       {
+        "value": "96%",
+        "label": "Project Success Rate"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Angular Developer Jobs in Indore for Serious Frontend Engineers",
+    "badge": "Real Frontend Engineering",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Most companies use Angular for simple UI screens. We don't.",
+       "We use Angular for:",
+       "<strong>So when we say Angular Developer Jobs in Indore, we mean real engineering work not template-based UI cloning.</strong>"
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fab fa-angular",
+        "title": "Why This Role Is Different",
+        "text": [],
+        "list": [
+         "You work on architecture, not just components",
+         "Performance matters large datasets, real-time updates",
+         "Component-first engineering culture",
+         "SaaS platforms & internal business tools",
+         "Faster growth than traditional IT jobs in Indore"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Why Angular Developers Choose Us Over Other IT Companies in Indore",
+    "badge": "Why Choose Us",
+    "parts": [
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-cubes",
+        "title": "You Work on Architecture",
+        "text": [
+         "You won't just build buttons and forms. You'll design how entire frontend modules interact."
+        ]
+       },
+       {
+        "icon": "fas fa-tachometer-alt",
+        "title": "Performance Matters (A Lot)",
+        "text": [
+         "We optimize Angular apps for large datasets, real-time updates, and high user traffic dashboards."
+        ]
+       },
+       {
+        "icon": "fas fa-redo-alt",
+        "title": "Component-First Culture",
+        "text": [
+         "Every UI element is reusable, scalable, and structured like a system — not random pages."
+        ]
+       },
+       {
+        "icon": "fas fa-chart-bar",
+        "title": "Real Business Applications",
+        "text": [
+         "SaaS platforms, internal business tools, client enterprise systems — real impact."
+        ]
+       },
+       {
+        "icon": "fas fa-rocket",
+        "title": "Faster Career Growth",
+        "text": [
+         "Exposure to NgRx, API-heavy applications, and scalable frontend architecture."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "What Angular Developers Build at UltraModern",
+    "badge": "Real Work",
+    "parts": [
+     {
+      "type": "list",
+      "items": [
+       "Multi-module Angular applications",
+       "Role-based admin dashboards",
+       "Data visualization systems",
+       "Real-time business reporting tools",
+       "API-driven frontend systems",
+       "Performance-optimized enterprise UI"
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "This is NOT \"basic website development\" work."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fab fa-angular",
+        "title": "Tech Stack You'll Master",
+        "text": [
+         "Angular 15+TypeScript NgRxRxJS Angular MaterialREST APIs"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "What We Expect from Angular Developers in Indore",
+    "badge": "Requirements",
+    "parts": [
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-code",
+        "title": "Must Have Skills",
+        "text": [],
+        "list": [
+         "Strong Angular fundamentals (components, services, routing)",
+         "TypeScript + reactive programming mindset",
+         "API integration experience (REST/JSON)",
+         "Understanding of state handling (RxJS basics)",
+         "Debugging real-world UI issues"
+        ]
+       },
+       {
+        "icon": "fas fa-star",
+        "title": "Strong Plus",
+        "text": [],
+        "list": [
+         "NgRx or other state management tools",
+         "Experience with large-scale Angular apps",
+         "Performance optimization experience",
+         "Working with complex UI logic"
+        ]
+       },
+       {
+        "icon": "fas fa-brain",
+        "title": "Mindset Requirement",
+        "text": [],
+        "list": [
+         "Think in systems, not screens",
+         "Comfortable with complex frontend logic",
+         "Not afraid of debugging broken production UI"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Angular Career Growth in a Product Engineering Environment",
+    "badge": "Career Path",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Instead of \"titles\", growth here is based on complexity you handle:"
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-laptop-code",
+        "title": "UI Developer",
+        "text": [
+         "Basic components"
+        ]
+       },
+       {
+        "icon": "fas fa-code",
+        "title": "Frontend Developer",
+        "text": [
+         "API + modules"
+        ]
+       },
+       {
+        "icon": "fas fa-cogs",
+        "title": "Angular Engineer",
+        "text": [
+         "Architecture + optimization"
+        ]
+       },
+       {
+        "icon": "fas fa-user-tie",
+        "title": "Senior Frontend Engineer",
+        "text": [
+         "System ownership"
+        ]
+       },
+       {
+        "icon": "fas fa-drafting-compass",
+        "title": "Frontend Architect",
+        "text": [
+         "Entire UI systems"
+        ]
+       }
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "Growth depends on system thinking, not years of experience"
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "How Angular Team Actually Works Here",
+    "badge": "How We Work",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "We don't assign \"pages\" to developers. We assign features and systems like:"
+      ]
+     },
+     {
+      "type": "list",
+      "items": [
+       "\"Build dashboard performance module\"",
+       "\"Fix API-heavy UI architecture\"",
+       "\"Optimize slow rendering Angular module\""
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "Developers here participate in architecture discussions, API structure decisions, and UI performance tuning."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-chart-bar",
+        "title": "Engineering Culture",
+        "text": [],
+        "list": [
+         "Component-first thinking",
+         "Performance-driven development",
+         "Architecture reviews",
+         "Clean code standards"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "faq",
+    "title": "Angular Developer Jobs in Indore – FAQs",
+    "badge": "FAQs",
+    "parts": [
+     {
+      "type": "faq",
+      "items": [
+       {
+        "q": "Is Angular used only for frontend UI here?",
+        "a": "No. We use Angular to build full-scale frontend systems for enterprise applications."
+       },
+       {
+        "q": "Do freshers get real project exposure?",
+        "a": "Yes, starting from structured modules and gradually moving to complex features."
+       },
+       {
+        "q": "Is Angular enough or should I know backend too?",
+        "a": "Angular + API understanding is enough. Backend knowledge is a plus."
+       },
+       {
+        "q": "What makes this different from other Angular jobs in Indore?",
+        "a": "You work on scalable enterprise applications, not static UI projects."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Start Your Angular Developer Career in Indore with Real Engineering Work",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "If you want to grow beyond basic frontend jobs and work on real Angular systems used by real businesses, this is your place. We are hiring Angular Developers in Indore for freshers and experienced engineers."
+      ]
+     },
+     {
+      "type": "buttons",
+      "items": [
+       {
+        "text": "Apply for Angular Developer Jobs",
+        "href": "/contact"
+       },
+       {
+        "text": "Talk to Hiring Team",
+        "href": "/contact"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "automation-Testing-Jobs",
+  "meta": {
+   "title": "Automation Testing Jobs in Indore",
+   "description": "Apply for Automation Testing Jobs in Indore at UltraModern Technologies. Work with Selenium, Cypress, Playwright, API Testing, and QA Automation projects. Freshers and experienced candidates can apply.",
+   "keywords": "automation testing jobs in indore, qa automation jobs indore, selenium testing indore, cypress tester jobs, qa engineer indore",
+   "canonical": "https://www.ultramoderntechnologies.com/automation-testing-jobs-in-indore.html",
+   "jsonLd": [
+    [
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Senior Automation Test Engineer",
+      "description": "Lead QA automation for web applications, APIs, and mobile apps using Selenium, Cypress, Playwright at UltraModern Technologies Indore.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-AUTO-SENIOR-001"
+      },
+      "datePosted": "2025-02-05",
+      "validThrough": "2025-09-15T00:00",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 600000,
+        "maxValue": 1200000,
+        "unitText": "YEAR"
+       }
+      }
+     },
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Junior Automation Tester",
+      "description": "Build test automation scripts using Selenium, Postman, Cypress at UltraModern Technologies Indore. Freshers welcome.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-AUTO-JUNIOR-002"
+      },
+      "datePosted": "2025-02-05",
+      "validThrough": "2025-09-15T00:00",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 300000,
+        "maxValue": 550000,
+        "unitText": "YEAR"
+       }
+      }
+     }
+    ],
+    {
+     "@context": "https://schema.org",
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you hire freshers for automation testing roles in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We have specific openings for freshers who are interested in QA and want to build automation skills from the ground up. You'll be mentored by experienced engineers."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What is the minimum qualification required to apply?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A degree in computer science, IT, or a related field is preferred, but not strictly required if you can demonstrate relevant skills. Practical knowledge matters more than degree."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Do I need to know Selenium before joining?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Familiarity with Selenium or another automation tool is preferred for most roles. For entry-level positions, we're open to candidates who have covered the basics through coursework or self-study."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is there a training period for new QA hires?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Freshers go through a structured onboarding period before taking independent ownership. You'll work alongside a senior tester first."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What programming languages do your automation testers use?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Primarily Java and JavaScript. Some Playwright and Cypress work is done in TypeScript. Python is used occasionally for scripting."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is automation testing a good career in India?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Automation testing is one of the most in-demand IT skills because companies need faster software releases with fewer bugs."
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "hero": {
+   "title": "Automation Testing Jobs in Indore",
+   "image": null,
+   "badge": "Now Hiring – Automation Testing Engineers in Indore!",
+   "text": [
+    "Looking for <strong>Automation Testing Jobs in Indore</strong>? Join UltraModern Technologies and work on real-world web applications, mobile apps, APIs, and enterprise software using Selenium, Cypress, Playwright, Postman, and modern QA tools. Freshers and experienced QA engineers are welcome to apply."
+   ]
+  },
+  "sections": [
+   {
+    "kind": "stats",
+    "title": null,
+    "badge": null,
+    "parts": [
+     {
+      "type": "stats",
+      "items": [
+       {
+        "value": "40+",
+        "label": "Test Suites Automated"
+       },
+       {
+        "value": "15+",
+        "label": "QA Engineers"
+       },
+       {
+        "value": "4+",
+        "label": "Open QA Roles"
+       },
+       {
+        "value": "95%",
+        "label": "Test Coverage"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "QA is not a checkpoint. It's a design input.",
+    "badge": "Why Quality Engineering Matters",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Most software teams treat QA as a checkpoint. We treat it as a design input. The difference shows up in small ways. When developers come to us early in a sprint to ask \"how should we make this testable?\" instead of \"why did QA reject this?\"that's the culture we've built. Our QA engineers sit in sprint planning, not just sprint reviews.",
+       "Indore's IT sector has expanded fast over the last few years. More companies, more products, more pressure to ship. But shipping fast without a solid test layer is just accumulating problems you'll pay for later. We've seen what bad QA does to a codebase and we've done the work of building something better.",
+       "If you've been looking for QA automation engineer jobs where your work directly influences product decisions, this is worth reading."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-laptop-code",
+        "title": "What You'll Be Testing",
+        "text": [
+         "No two sprints look the same. You won't be writing the same login test for three years."
+        ],
+        "list": [
+         "Hospital Management Software",
+         "E-commerce platforms",
+         "CRM systems and business dashboards",
+         "Mobile apps (React Native)",
+         "API-driven backend systems"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Automation Testing is one of the fastest-growing IT career paths in India",
+    "badge": "Why Choose Automation Testing",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Businesses need QA professionals who can improve software quality, reduce bugs, and speed up product releases. At UltraModern Technologies, automation testers work with real projects, modern testing tools, and experienced development teams."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-brain",
+        "title": "You understand what you're testing",
+        "text": [
+         "Not just writing scripts understanding user flow, business logic, and where things break. This separates good testers from people who write tests that always pass."
+        ]
+       },
+       {
+        "icon": "fas fa-code-branch",
+        "title": "Maintainable test code",
+        "text": [
+         "Clean structure, clear naming, sensible use of page object models. Tests that nobody can understand six months later are a liability."
+        ]
+       },
+       {
+        "icon": "fas fa-bug",
+        "title": "Clear bug communication",
+        "text": [
+         "Isolate the problem, describe steps, give devs what they need to fix it. \"It didn't work\" helps nobody."
+        ]
+       },
+       {
+        "icon": "fab fa-git-alt",
+        "title": "Version control comfortable",
+        "text": [
+         "If you've never made a commit or opened a pull request, that's something to work on before applying."
+        ]
+       }
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-graduation-cap",
+        "title": "For Freshers & Experienced QA Engineers",
+        "text": [
+         "<strong>Freshers:</strong> We don't expect production experience. We expect genuine curiosity and a willingness to learn. If you've done personal projects, ISTQB prep, or testing practice on open-source apps, mention that.",
+         "<strong>Experienced QA engineers:</strong> We want people who've moved beyond manual testing and have real automation work to show even side projects count."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Tools & Technologies",
+    "badge": null,
+    "parts": [
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-globe",
+        "title": "Selenium",
+        "text": [
+         "Primary browser automation"
+        ]
+       },
+       {
+        "icon": "fas fa-check-double",
+        "title": "Cypress",
+        "text": [
+         "Frontend component testing"
+        ]
+       },
+       {
+        "icon": "fas fa-play",
+        "title": "Playwright",
+        "text": [
+         "Cross-browser testing"
+        ]
+       },
+       {
+        "icon": "fas fa-database",
+        "title": "Postman",
+        "text": [
+         "API testing & collections"
+        ]
+       },
+       {
+        "icon": "fas fa-tachometer-alt",
+        "title": "JMeter",
+        "text": [
+         "Performance & load testing"
+        ]
+       },
+       {
+        "icon": "fab fa-git-alt",
+        "title": "Git",
+        "text": [
+         "Version control for test code"
+        ]
+       }
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "You don't need to know all of these on day one. But you should know at least one automation tool well enough to write real tests with it."
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Career Paths in QA at UltraModern",
+    "badge": "Growth Opportunities",
+    "parts": [
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-user-check",
+        "title": "Junior QA",
+        "text": [
+         "Learn automation basics"
+        ]
+       },
+       {
+        "icon": "fas fa-chart-line",
+        "title": "QA Engineer",
+        "text": [
+         "Own test suites"
+        ]
+       },
+       {
+        "icon": "fas fa-user-tie",
+        "title": "Senior QA Engineer",
+        "text": [
+         "Full product test strategy"
+        ]
+       },
+       {
+        "icon": "fas fa-users",
+        "title": "QA Lead",
+        "text": [
+         "Manage team across projects"
+        ]
+       },
+       {
+        "icon": "fas fa-cloud",
+        "title": "DevOps/Architect",
+        "text": [
+         "CI/CD + test infrastructure"
+        ]
+       }
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "We support ISTQB and tool-specific certifications"
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "jobs",
+    "title": "Open Automation Testing Positions in Indore",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Join our QA team working on real-world applications"
+      ]
+     },
+     {
+      "type": "jobs",
+      "items": [
+       {
+        "title": "Senior Automation Test Engineer",
+        "level": "",
+        "meta": [
+         "Indore",
+         "Full-time"
+        ],
+        "tags": [
+         "Selenium",
+         "Cypress",
+         "API Testing",
+         "Experienced"
+        ],
+        "salary": "₹6L – ₹12L /year",
+        "featured": true
+       },
+       {
+        "title": "Junior Automation Tester",
+        "level": "",
+        "meta": [
+         "Indore (Hybrid)"
+        ],
+        "tags": [
+         "Selenium",
+         "Postman",
+         "Java/JS",
+         "Fresher OK"
+        ],
+        "salary": "₹3L – ₹5.5L /year",
+        "featured": false
+       },
+       {
+        "title": "QA Automation Intern",
+        "level": "",
+        "meta": [
+         "Indore"
+        ],
+        "tags": [
+         "Learning mindset",
+         "Basic coding",
+         "Internship"
+        ],
+        "salary": "₹10K – ₹15K /month",
+        "featured": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Work Culture in Indore",
+    "badge": "Life at UltraModern",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "We're based in Indore with a branch in Bengaluru. The Indore office is where most of our product and engineering work happens."
+      ]
+     },
+     {
+      "type": "list",
+      "items": [
+       "Small, direct team no layers of bureaucracy",
+       "Ask the person who wrote the requirement",
+       "Standard work hours (not 12-hour startup days)",
+       "Structured onboarding for freshers with senior mentorship",
+       "Honest about sprint intensity when it happens"
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-clipboard-list",
+        "title": "Hiring Process",
+        "text": [
+         "We don't make you wait three weeks. If we're not moving forward, we'll tell you."
+        ],
+        "list": [
+         "<strong>1.</strong> Application review — we read every application",
+         "<strong>2.</strong> Technical screening — short practical exercise",
+         "<strong>3.</strong> Interview — real conversation with QA lead",
+         "<strong>4.</strong> Offer and onboarding — we move quickly"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "faq",
+    "title": "Automation Testing Jobs in Indore – FAQs",
+    "badge": "FAQs",
+    "parts": [
+     {
+      "type": "faq",
+      "items": [
+       {
+        "q": "Do you hire freshers for automation testing roles in Indore?",
+        "a": "Yes. We have specific openings for freshers who are interested in QA and want to build automation skills from the ground up. You'll be mentored by experienced engineers and won't be left to figure things out alone."
+       },
+       {
+        "q": "What is the minimum qualification required to apply?",
+        "a": "A degree in computer science, IT, or a related field is preferred, but not strictly required if you can demonstrate relevant skills. Practical knowledge matters more than your degree."
+       },
+       {
+        "q": "Do I need to know Selenium before joining?",
+        "a": "Familiarity with Selenium or another automation tool is preferred for most roles. For entry-level positions, we're open to candidates who have covered the basics through coursework or self-study."
+       },
+       {
+        "q": "Is there a training period for new QA hires?",
+        "a": "Yes. Freshers go through a structured onboarding period before taking independent ownership. You'll work alongside a senior tester first."
+       },
+       {
+        "q": "What programming languages do your automation testers use?",
+        "a": "Primarily Java and JavaScript. Some Playwright and Cypress work is done in TypeScript. Python is used occasionally for scripting and data setup."
+       },
+       {
+        "q": "What is the difference between manual testing and automation testing?",
+        "a": "Automation testing uses tools like Selenium, Cypress, and Playwright to execute test cases automatically, while manual testing requires human execution. Automation improves efficiency, speed, and test coverage."
+       },
+       {
+        "q": "Which automation testing tools should freshers learn?",
+        "a": "Freshers should start with Selenium, Postman, Cypress, Playwright, Git, and basic programming in Java or JavaScript."
+       },
+       {
+        "q": "Is automation testing a good career in India?",
+        "a": "Yes. Automation testing is one of the most in-demand IT skills because companies need faster software releases with fewer bugs."
+       },
+       {
+        "q": "Do automation testers need coding skills?",
+        "a": "Basic coding knowledge is highly recommended. Languages such as Java, JavaScript, Python, and TypeScript are commonly used in automation testing."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "If you've read this far, you're probably the kind of person we want to talk to.",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Send us your application tell us where you are in your QA career, what tools you've worked with, and what kind of testing problems you find genuinely interesting."
+      ]
+     },
+     {
+      "type": "buttons",
+      "items": [
+       {
+        "text": "Apply for Automation Testing Jobs in Indore",
+        "href": "/contact"
+       },
+       {
+        "text": "Contact HR Team",
+        "href": "/contact"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "nodejs-developer-jobs",
+  "meta": {
+   "title": "Node.js Developer Careers in Indore",
+   "description": "Apply for Node.js Developer Jobs in Indore at UltraModern Technologies. Work on scalable APIs, backend systems, and real-world SaaS products. Freshers & experienced developers welcome.",
+   "keywords": "node js developer jobs in indore, backend developer jobs indore, node js jobs indore, express js developer indore, backend fresher jobs indore",
+   "canonical": "https://www.ultramoderntechnologies.com/nodejs-developer-jobs-in-indore.html",
+   "jsonLd": [
+    [
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Senior Node.js Developer",
+      "description": "Build scalable backend systems, REST APIs, and real-world SaaS products using Node.js, Express, MongoDB at UltraModern Technologies Indore.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-NODE-SENIOR-001"
+      },
+      "datePosted": "2025-01-28",
+      "validThrough": "2025-07-15T00:00",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 900000,
+        "maxValue": 1800000,
+        "unitText": "YEAR"
+       }
+      }
+     },
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Junior Node.js Developer",
+      "description": "Build backend APIs and database systems using Node.js, Express, MongoDB at UltraModern Technologies Indore.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-NODE-JUNIOR-002"
+      },
+      "datePosted": "2025-01-28",
+      "validThrough": "2025-07-15T00:00",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 350000,
+        "maxValue": 650000,
+        "unitText": "YEAR"
+       }
+      }
+     },
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Node.js Developer Intern",
+      "description": "Internship for Node.js backend development at UltraModern Technologies Indore.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-NODE-INTERN-005"
+      },
+      "datePosted": "2025-01-28",
+      "validThrough": "2025-07-15T00:00",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 10000,
+        "maxValue": 15000,
+        "unitText": "MONTH"
+       }
+      }
+     }
+    ],
+    {
+     "@context": "https://schema.org",
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "What does a Node.js Developer do at UltraModern Technologies?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Node.js Developer at UltraModern Technologies builds backend APIs, database systems, and server-side logic that power web and mobile applications used by real customers."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is this Node.js Developer job in Indore suitable for freshers?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Freshers with basic knowledge of Node.js, Express.js, and APIs can apply. We also provide internship opportunities and real project training."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What skills are required for a Node.js Developer job in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should know Node.js, Express.js, REST APIs, databases like MongoDB or MySQL, and basic understanding of Git and backend development concepts."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Do I need experience for Node.js developer jobs at UltraModern Technologies?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. We hire freshers, mid-level, and experienced developers (0 to 8+ years). Skills and logic matter more than years of experience."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What kind of projects will I work on as a Node.js developer?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You will work on real-world projects like SaaS platforms, business applications, APIs for mobile apps, and backend systems handling live user traffic."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is this a work-from-home or office job in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The role is primarily based in Indore with hybrid options depending on project requirements and performance."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What is the salary for Node.js developers in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Salary depends on experience, skills, and project role. We offer competitive packages based on industry standards in Indore IT companies."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Do you offer internships for Node.js development?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We offer Node.js internships where candidates work on real projects under senior developer guidance."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What technologies will I use as a Node.js developer here?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You will work with Node.js, Express.js, MongoDB, MySQL, REST APIs, JWT authentication, AWS basics, and Git."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How can I apply for Node.js developer jobs in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can apply by submitting your resume and GitHub/portfolio through the Apply Now button on the careers page."
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "hero": {
+   "title": "Node.js Developer Jobs in Indore",
+   "image": null,
+   "badge": "Now Hiring – Node.js Developers in Indore!",
+   "text": [
+    "We are hiring Node.js Developers in Indore who can build fast, scalable, and reliable backend systems for real applications used by real users."
+   ]
+  },
+  "sections": [
+   {
+    "kind": "stats",
+    "title": null,
+    "badge": null,
+    "parts": [
+     {
+      "type": "stats",
+      "items": [
+       {
+        "value": "25+",
+        "label": "Live Backend Systems"
+       },
+       {
+        "value": "80+",
+        "label": "Backend Developers"
+       },
+       {
+        "value": "5+",
+        "label": "Open Node.js Roles"
+       },
+       {
+        "value": "99.9%",
+        "label": "API Uptime"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Real Backend Engineering Not Tutorial-Level Coding",
+    "badge": "What This Role Actually Means",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Most <strong>Node.js jobs in Indore</strong> are either maintenance work or small feature additions on already-decided systems. That's not what we do here.",
+       "At <strong>UltraModern Technologies Pvt Ltd</strong>, our backend developers work on:",
+       "Data-heavy and integration-heavy architectures",
+       "You'll deal with real problems like: Why is this API slowing down at scale? Why is this query fine in staging but failing in production? What happens when 10,000 users hit this endpoint at once?",
+       "<strong>This is real backend engineering not tutorial-level coding.</strong> We are based in Indore, but our clients are not limited to one city. That means your code has to meet real-world expectations, not just academic correctness."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fab fa-node-js",
+        "title": "The Reality Check",
+        "text": [],
+        "list": [
+         "Real production systems, not demos",
+         "APIs serving actual users",
+         "Database queries at scale",
+         "Performance debugging under pressure",
+         "Integration with real third-party services"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Why Node.js Developers Choose Us Over Other IT Companies in Indore",
+    "badge": "Why Join UltraModern Technologies",
+    "parts": [
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-rocket",
+        "title": "Work on Production Systems Early",
+        "text": [
+         "Within a few weeks, you'll work on live systems where APIs are serving users, data is constantly changing, and bugs have real impact."
+        ]
+       },
+       {
+        "icon": "fas fa-microchip",
+        "title": "Actually Understand Backend Engineering",
+        "text": [
+         "Learn event loop impact, database design, caching, and why small mistakes become big outages. We explain why things break, not just how to fix them."
+        ]
+       },
+       {
+        "icon": "fas fa-code",
+        "title": "Real Code Reviews, Not Formality",
+        "text": [
+         "Every PR is reviewed for architecture decisions, edge cases, scalability issues, and security gaps. Your thinking changes, not just your code."
+        ]
+       },
+       {
+        "icon": "fas fa-layer-group",
+        "title": "Modern Tech Stack, Actively Maintained",
+        "text": [
+         "Work with Node.js (modern versions), Express/NestJS, MongoDB/PostgreSQL, Redis caching, AWS/Docker deployments. We upgrade before problems become unavoidable."
+        ]
+       },
+       {
+        "icon": "fas fa-building",
+        "title": "Indore-Based Engineering Culture",
+        "text": [
+         "Decisions happen here. Tech discussions happen here. Team collaboration is local and direct. We're contributing to Indore's growth as a strong IT hub."
+        ]
+       },
+       {
+        "icon": "fas fa-chalkboard-teacher",
+        "title": "You Will Make Mistakes and Learn Properly",
+        "text": [
+         "Production issues happen. We fix first, understand why, then improve. No blame games. Just engineering reality."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Roles & Responsibilities",
+    "badge": "What You'll Do",
+    "parts": [
+     {
+      "type": "list",
+      "items": [
+       "Design and build REST APIs for web and mobile apps",
+       "Work on backend architecture and system design",
+       "Manage database structures (MongoDB / PostgreSQL / MySQL)",
+       "Implement authentication systems (JWT, OAuth)",
+       "Integrate third-party APIs and services",
+       "Debug performance issues in production systems",
+       "Optimize backend performance and response time",
+       "Work with deployment pipelines (CI/CD basics)",
+       "Maintain clean, scalable backend code"
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fab fa-node-js",
+        "title": "Experience Levels",
+        "text": [
+         "<strong>🔹 Fresher / Intern:</strong> Basic Node.js, CRUD APIs, learning mindset",
+         "<strong>🔹 Junior (0–2 yrs):</strong> API development + database basics",
+         "<strong>🔹 Mid (2–4 yrs):</strong> Independent backend feature development",
+         "<strong>🔹 Senior (4–7 yrs):</strong> System ownership + architecture decisions",
+         "<strong>🔹 Lead (7+ yrs):</strong> Full backend system design + mentoring"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "What We Expect from Node.js Developers in Indore",
+    "badge": "Skills We Expect",
+    "parts": [
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-code",
+        "title": "Technical Skills",
+        "text": [],
+        "list": [
+         "Node.js (core understanding mandatory)",
+         "Express.js or NestJS",
+         "REST API development",
+         "Database handling (SQL + NoSQL)",
+         "JWT / Authentication systems",
+         "Git & GitHub workflow",
+         "Basic cloud knowledge (AWS/GCP is a plus)",
+         "Understanding of async programming"
+        ]
+       },
+       {
+        "icon": "fas fa-brain",
+        "title": "Soft Skills",
+        "text": [],
+        "list": [
+         "Problem-solving mindset",
+         "Ability to ask the right questions",
+         "Ownership of tasks",
+         "Clear communication"
+        ]
+       },
+       {
+        "icon": "fas fa-chart-line",
+        "title": "Bonus Points",
+        "text": [],
+        "list": [
+         "Experience with Redis caching",
+         "Docker / container basics",
+         "CI/CD pipeline understanding",
+         "Microservices exposure"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Technologies for Node.js Development in Indore",
+    "badge": null,
+    "parts": [
+     {
+      "type": "subheading",
+      "items": [
+       "Node.js",
+       "Express.js",
+       "MongoDB",
+       "PostgreSQL",
+       "Redis",
+       "Docker",
+       "AWS",
+       "Git"
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Node.js Career Growth at UltraModern Technologies",
+    "badge": "Career Path",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Growth here is based on ownership, code quality, system understanding, and problem-solving ability — not just years of experience."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fab fa-node-js",
+        "title": "Node.js Developer",
+        "text": [
+         "Level 1"
+        ]
+       },
+       {
+        "icon": "fas fa-user-tie",
+        "title": "Senior Backend Dev",
+        "text": [
+         "Level 2"
+        ]
+       },
+       {
+        "icon": "fas fa-users",
+        "title": "Technical Lead",
+        "text": [
+         "Level 3"
+        ]
+       },
+       {
+        "icon": "fas fa-drafting-compass",
+        "title": "Solution Architect",
+        "text": [
+         "Level 4"
+        ]
+       },
+       {
+        "icon": "fas fa-chart-line",
+        "title": "Engineering Manager",
+        "text": [
+         "Level 5"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "process",
+    "title": "Hiring Process",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Usually completed in 2–3 weeks"
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-file-alt fa-2x",
+        "title": "Application Review",
+        "text": [
+         "1"
+        ]
+       },
+       {
+        "icon": "fas fa-laptop-code fa-2x",
+        "title": "Technical Assignment",
+        "text": [
+         "2"
+        ]
+       },
+       {
+        "icon": "fas fa-comments fa-2x",
+        "title": "Technical Interview",
+        "text": [
+         "3"
+        ]
+       },
+       {
+        "icon": "fas fa-user-tie fa-2x",
+        "title": "HR Discussion",
+        "text": [
+         "4"
+        ]
+       },
+       {
+        "icon": "fas fa-handshake fa-2x",
+        "title": "Final Offer",
+        "text": [
+         "5"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Work Here is Structured But Not Rigid",
+    "badge": "Life at UltraModern",
+    "parts": [
+     {
+      "type": "list",
+      "items": [
+       "Standups are short and meaningful",
+       "Developers get time for deep work",
+       "Code reviews are taken seriously",
+       "Discussions are encouraged",
+       "Learning happens through real work, not training slides"
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "We don't believe in \"perfect environments\". We believe in environments where engineers get better over time."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-chart-bar",
+        "title": "Indore Office at a Glance",
+        "text": [
+         "50+Team Members 25+Backend Systems 4+Years in Indore 100%Real Project Work"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "faq",
+    "title": "Node.js Developer Jobs in Indore – FAQs",
+    "badge": "FAQs",
+    "parts": [
+     {
+      "type": "faq",
+      "items": [
+       {
+        "q": "What does a Node.js Developer do at UltraModern Technologies?",
+        "a": "A Node.js Developer at UltraModern Technologies builds backend APIs, database systems, and server-side logic that power web and mobile applications used by real customers."
+       },
+       {
+        "q": "Is this Node.js Developer job in Indore suitable for freshers?",
+        "a": "Yes. Freshers with basic knowledge of Node.js, Express.js, and APIs can apply. We also provide internship opportunities and real project training."
+       },
+       {
+        "q": "What skills are required for a Node.js Developer job in Indore?",
+        "a": "You should know Node.js, Express.js, REST APIs, databases like MongoDB or MySQL, and basic understanding of Git and backend development concepts."
+       },
+       {
+        "q": "Do I need experience for Node.js developer jobs at UltraModern Technologies?",
+        "a": "No. We hire freshers, mid-level, and experienced developers (0 to 8+ years). Skills and logic matter more than years of experience."
+       },
+       {
+        "q": "What kind of projects will I work on as a Node.js developer?",
+        "a": "You will work on real-world projects like SaaS platforms, business applications, APIs for mobile apps, and backend systems handling live user traffic."
+       },
+       {
+        "q": "Is this a work-from-home or office job in Indore?",
+        "a": "The role is primarily based in Indore with hybrid options depending on project requirements and performance."
+       },
+       {
+        "q": "What is the salary for Node.js developers in Indore?",
+        "a": "Salary depends on experience, skills, and project role. We offer competitive packages based on industry standards in Indore IT companies."
+       },
+       {
+        "q": "Do you offer internships for Node.js development?",
+        "a": "Yes. We offer Node.js internships where candidates work on real projects under senior developer guidance."
+       },
+       {
+        "q": "What technologies will I use as a Node.js developer here?",
+        "a": "You will work with Node.js, Express.js, MongoDB, MySQL, REST APIs, JWT authentication, AWS basics, and Git."
+       },
+       {
+        "q": "How can I apply for Node.js developer jobs in Indore?",
+        "a": "You can apply by submitting your resume and GitHub/portfolio through the Apply Now button on the careers page."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "If you want to work on real backend systems instead of demo-level projects, this is your opportunity.",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "We are currently hiring Node.js developers in Indore across multiple experience levels."
+      ]
+     },
+     {
+      "type": "buttons",
+      "items": [
+       {
+        "text": "Apply Now",
+        "href": "/contact"
+       },
+       {
+        "text": "Contact Us for more details",
+        "href": "/contact"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "overseas-Education-Counselor-Jobs",
+  "meta": {
+   "title": "Overseas Education Counselor Jobs in Indore",
+   "description": "Apply for Overseas Education Counselor Jobs in Indore at UltraModern Technologies. Help students plan study abroad in USA, UK, Canada, Australia & Europe. Freshers and experienced candidates can apply.",
+   "keywords": "overseas education counselor jobs in indore, study abroad counselor indore, education consultant jobs indore, visa counselor indore, study abroad jobs indore",
+   "canonical": "https://www.ultramoderntechnologies.com/overseas-education-counselor-jobs-in-indore.html",
+   "jsonLd": [
+    [
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Overseas Education Counselor",
+      "description": "Guide students for study abroad in USA, UK, Canada, Australia & Europe. Help with university selection, admissions, visa process at UltraModern Technologies Indore.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-COUNSELOR-001"
+      },
+      "datePosted": "2025-02-01",
+      "validThrough": "2025-08-30T00:00",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 500000,
+        "unitText": "YEAR"
+       }
+      }
+     },
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Senior Overseas Education Counselor",
+      "description": "Lead study abroad counseling team, guide students for international university admissions, visa process at UltraModern Technologies Indore.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-COUNSELOR-SR-002"
+      },
+      "datePosted": "2025-02-01",
+      "validThrough": "2025-08-30T00:00",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 800000,
+        "unitText": "YEAR"
+       }
+      }
+     }
+    ],
+    {
+     "@context": "https://schema.org",
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "What does an Overseas Education Counselor do in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An Overseas Education Counselor helps students choose the right country, university, and course for studying abroad and supports them through admission and visa process."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Can freshers apply for Overseas Education Counselor jobs in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Freshers can apply. If you have good communication skills and interest in student counseling, you are eligible."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What skills are required for this job?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need good communication skills, basic knowledge of study abroad process, and the ability to guide students clearly and honestly."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is this job more counseling or sales?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is primarily counseling. However, you also need to follow up with students and guide them toward successful admissions."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Which countries will I be working for?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You will mainly guide students for USA, UK, Canada, Australia, and European countries."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is Overseas Education Counselor a good career in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Study abroad industry is growing fast in Indore, and this role offers strong career growth, incentives, and long-term opportunities."
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "hero": {
+   "title": "Overseas Education Counselor Jobs in Indore",
+   "image": null,
+   "badge": "Now Hiring – Overseas Education Counselors in Indore!",
+   "text": [
+    "At UltraModern Technologies, we are hiring Overseas Education Counselors in Indore who can guide students step-by-step through their study abroad journey from selecting the right country to securing admission and visa approval."
+   ]
+  },
+  "sections": [
+   {
+    "kind": "stats",
+    "title": null,
+    "badge": null,
+    "parts": [
+     {
+      "type": "stats",
+      "items": [
+       {
+        "value": "500+",
+        "label": "Students Guided"
+       },
+       {
+        "value": "15+",
+        "label": "Partner Universities"
+       },
+       {
+        "value": "6",
+        "label": "Countries Covered"
+       },
+       {
+        "value": "98%",
+        "label": "Visa Success Rate"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "This is not just a job of answering queries",
+    "badge": "What This Role Actually Means",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "As an Overseas Education Counselor, you will be the first point of guidance for students who want to study abroad.",
+       "You will help them understand:",
+       "How to complete admission and visa process",
+       "<strong>You will mainly support students planning to study in:</strong>"
+      ]
+     },
+     {
+      "type": "chips",
+      "items": [
+       {
+        "icon": null,
+        "text": "🇺🇸 USA"
+       },
+       {
+        "icon": null,
+        "text": "🇬🇧 UK"
+       },
+       {
+        "icon": null,
+        "text": "🇨🇦 Canada"
+       },
+       {
+        "icon": null,
+        "text": "🇦🇺 Australia"
+       },
+       {
+        "icon": null,
+        "text": "🇪🇺 Europe"
+       }
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-chalkboard-user",
+        "title": "Your Impact",
+        "text": [],
+        "list": [
+         "Shape students' international careers",
+         "Guide families with honest advice",
+         "No false commitments only correct guidance",
+         "Build long-term trust in education sector"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "jobs",
+    "title": "Open Positions for Education Counselors",
+    "badge": "Current Openings",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Join our study abroad team in Indore"
+      ]
+     },
+     {
+      "type": "jobs",
+      "items": [
+       {
+        "title": "Overseas Education Counselor",
+        "level": "",
+        "meta": [
+         "Indore",
+         "Full-time",
+         "Immediate Joiners"
+        ],
+        "tags": [
+         "Student Counseling",
+         "Study Abroad",
+         "Visa Guidance",
+         "Fresher OK"
+        ],
+        "salary": "₹2.5L – ₹5L /year + incentives",
+        "featured": true
+       },
+       {
+        "title": "Senior Education Counselor",
+        "level": "",
+        "meta": [
+         "Indore",
+         "Full-time",
+         "Immediate Joiners"
+        ],
+        "tags": [
+         "Team Leadership",
+         "Admissions",
+         "Visa Processing",
+         "Experienced"
+        ],
+        "salary": "₹4L – ₹8L /year + incentives",
+        "featured": false
+       },
+       {
+        "title": "Study Abroad Advisor",
+        "level": "",
+        "meta": [
+         "Indore (Hybrid)",
+         "Full-time"
+        ],
+        "tags": [
+         "Career Counseling",
+         "University Applications",
+         "Scholarship Guidance",
+         "Fresher OK"
+        ],
+        "salary": "₹3L – ₹6L /year + incentives",
+        "featured": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Your Day-to-Day Responsibilities",
+    "badge": "Your Role",
+    "parts": [
+     {
+      "type": "list",
+      "items": [
+       "Speak with students and understand their study goals",
+       "Guide them with honest and clear study abroad options",
+       "Explain universities, courses, fees, and eligibility",
+       "Help in filling applications and documentation",
+       "Support students in SOP (Statement of Purpose) writing guidance",
+       "Assist in visa preparation process",
+       "Follow up with leads and maintain student records",
+       "Work towards counseling and admission targets",
+       "Maintain trust — no false commitments, only correct guidance"
+      ]
+     },
+     {
+      "type": "subheading",
+      "items": [
+       "Countries You'll Work With",
+       "Exams You'll Guide For"
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "What We Expect from Education Counselors in Indore",
+    "badge": "Skills & Qualifications",
+    "parts": [
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-comments",
+        "title": "Must-Have Skills",
+        "text": [],
+        "list": [
+         "Good communication skills (English & Hindi)",
+         "Confidence in talking to students and parents",
+         "Basic understanding of study abroad process",
+         "Ability to explain things in a simple way",
+         "Interest in education, counseling, or student guidance"
+        ]
+       },
+       {
+        "icon": "fas fa-star",
+        "title": "Good to Have",
+        "text": [],
+        "list": [
+         "Experience in overseas education consultancy",
+         "Knowledge of IELTS / TOEFL / PTE exams",
+         "CRM or lead management experience"
+        ]
+       },
+       {
+        "icon": "fas fa-graduation-cap",
+        "title": "Education",
+        "text": [],
+        "list": [
+         "Any graduate can apply",
+         "Freshers are welcome if communication is strong"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Why Join UltraModern Technologies?",
+    "badge": "Why Join Us",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Working with us means you are not just doing counseling — you are building real careers for students."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-chalkboard",
+        "title": "Structured training on study abroad process",
+        "text": [
+         "Complete training on study abroad process, university systems, and visa procedures."
+        ]
+       },
+       {
+        "icon": "fas fa-globe",
+        "title": "Exposure to international universities & systems",
+        "text": [
+         "Work with international universities and understand global education systems."
+        ]
+       },
+       {
+        "icon": "fas fa-users",
+        "title": "Real-time student interaction and learning",
+        "text": [
+         "Directly counsel students and see them succeed in their international journey."
+        ]
+       },
+       {
+        "icon": "fas fa-chart-line",
+        "title": "Performance-based incentives and growth",
+        "text": [
+         "Attractive performance-based incentives and career growth opportunities."
+        ]
+       },
+       {
+        "icon": "fas fa-handshake",
+        "title": "Supportive and professional team environment",
+        "text": [
+         "Professional and supportive work environment with experienced mentors."
+        ]
+       },
+       {
+        "icon": "fas fa-building",
+        "title": "Long-term career stability in education consulting",
+        "text": [
+         "Stable career in the growing study abroad industry with clear growth path."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Career Growth Path in Education Counseling",
+    "badge": "Career Path",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "We believe in clear and practical growth:"
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-user-graduate",
+        "title": "Overseas Education Counselor",
+        "text": [
+         "Level 1"
+        ]
+       },
+       {
+        "icon": "fas fa-user-tie",
+        "title": "Senior Counselor",
+        "text": [
+         "Level 2"
+        ]
+       },
+       {
+        "icon": "fas fa-users",
+        "title": "Team Lead Admissions",
+        "text": [
+         "Level 3"
+        ]
+       },
+       {
+        "icon": "fas fa-chart-line",
+        "title": "Branch Manager / Head Counselor",
+        "text": [
+         "Level 4"
+        ]
+       }
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "Your growth depends on your performance, consistency, and student success rate."
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "faq",
+    "title": "Overseas Education Counselor Jobs – FAQs",
+    "badge": "FAQs",
+    "parts": [
+     {
+      "type": "faq",
+      "items": [
+       {
+        "q": "What does an Overseas Education Counselor do in Indore?",
+        "a": "An Overseas Education Counselor helps students choose the right country, university, and course for studying abroad and supports them through admission and visa process."
+       },
+       {
+        "q": "Can freshers apply for Overseas Education Counselor jobs in Indore?",
+        "a": "Yes. Freshers can apply. If you have good communication skills and interest in student counseling, you are eligible."
+       },
+       {
+        "q": "What skills are required for this job?",
+        "a": "You need good communication skills, basic knowledge of study abroad process, and the ability to guide students clearly and honestly."
+       },
+       {
+        "q": "Is this job more counseling or sales?",
+        "a": "It is primarily counseling. However, you also need to follow up with students and guide them toward successful admissions."
+       },
+       {
+        "q": "Which countries will I be working for?",
+        "a": "You will mainly guide students for USA, UK, Canada, Australia, and European countries."
+       },
+       {
+        "q": "Is Overseas Education Counselor a good career in Indore?",
+        "a": "Yes. Study abroad industry is growing fast in Indore, and this role offers strong career growth, incentives, and long-term opportunities."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "If you enjoy guiding students and helping them build an international future, this role is perfect for you.",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Apply for Overseas Education Counselor Jobs in Indore at UltraModern Technologies"
+      ]
+     },
+     {
+      "type": "buttons",
+      "items": [
+       {
+        "text": "Apply Now",
+        "href": "/contact"
+       },
+       {
+        "text": "Contact HR Team",
+        "href": "/contact"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "react-native-developer-jobs",
+  "meta": {
+   "title": "React Native Developer Jobs in Indore | UltraModern Technologies",
+   "description": "Apply for React Native Developer Jobs in Indore at UltraModern Technologies. Build cross-platform mobile apps using React Native, JavaScript, TypeScript & modern app development tools. Freshers & experienced developers welcome.",
+   "keywords": "react native developer jobs in indore, react native jobs indore, javascript developer jobs indore, typescript developer jobs indore, react native fresher jobs indore",
+   "canonical": "https://www.ultramoderntechnologies.com/react-native-developer-jobs-in-indore.html",
+   "jsonLd": [
+    [
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Senior React Native Developer",
+      "description": "Design and develop cross-platform mobile applications using React Native, TypeScript and Redux at UltraModern Technologies Indore.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-RN-SENIOR-001"
+      },
+      "datePosted": "2025-01-15",
+      "validThrough": "2025-04-30T00:00",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 800000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+       }
+      }
+     },
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Junior React Native Developer",
+      "description": "Build cross-platform mobile applications using React Native and JavaScript at UltraModern Technologies Indore. Freshers welcome.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-RN-JUNIOR-002"
+      },
+      "datePosted": "2025-01-15",
+      "validThrough": "2025-04-30T00:00",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 300000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+       }
+      }
+     },
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "React Native Developer Intern",
+      "description": "Internship for React Native mobile app development at UltraModern Technologies Indore.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-RN-INTERN-005"
+      },
+      "datePosted": "2025-01-15",
+      "validThrough": "2025-04-30T00:00",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Crystal IT Park",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452010",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 10000,
+        "maxValue": 15000,
+        "unitText": "MONTH"
+       }
+      }
+     }
+    ],
+    {
+     "@context": "https://schema.org",
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Are React Native developer jobs available for freshers in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we hire freshers with strong React Native fundamentals and project experience."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What skills are required for React Native jobs in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "React Native, JavaScript, REST APIs, and basic mobile development knowledge."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What is the salary for React Native developers in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Salary depends on experience, skills, and interview performance. We offer competitive packages with performance-based growth."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Do I need experience to apply for React Native jobs in Indore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, freshers and experienced developers can apply. Strong portfolio projects are highly preferred."
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "hero": {
+   "title": "React Native Developer Jobs in Indore",
+   "image": null,
+   "badge": "Now Hiring – React Native Developers in Indore!",
+   "text": [
+    "UltraModern Technologies is hiring React Native Developers in Indore to build high-performance cross-platform mobile applications for Android and iOS. If you are looking for React Native Developer Jobs in Indore, this is a great opportunity to work on real production apps using React Native, JavaScript, TypeScript, and Firebase."
+   ]
+  },
+  "sections": [
+   {
+    "kind": "stats",
+    "title": null,
+    "badge": null,
+    "parts": [
+     {
+      "type": "stats",
+      "items": [
+       {
+        "value": "50+",
+        "label": "Projects Delivered"
+       },
+       {
+        "value": "200+",
+        "label": "Developers Hired"
+       },
+       {
+        "value": "6+",
+        "label": "Open RN Positions"
+       },
+       {
+        "value": "95%",
+        "label": "Employee Satisfaction"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Start Your React Native Developer Career in Indore",
+    "badge": "About the Opportunity",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "UltraModern Technologies is a growing IT company in Indore offering exciting opportunities for React Native developers. We build mobile applications for startups, enterprises, and international clients across industries.",
+       "If you are searching for <strong>React Native Developer Jobs in Indore</strong>, this is your chance to work on real-world apps used by thousands of users with modern cross-platform development practices."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fab fa-react",
+        "title": "Why Join Us in Indore?",
+        "text": [],
+        "list": [
+         "Work on real production-level cross-platform apps",
+         "Use React Native, TypeScript & Redux",
+         "Structured career growth path",
+         "International project exposure",
+         "Freshers & experienced welcome",
+         "Modern office at Crystal IT Park, Indore"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "jobs",
+    "title": "Latest React Native Developer Jobs in Indore",
+    "badge": "Current Openings",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Apply now for React Native developer roles at UltraModern Technologies, Indore"
+      ]
+     },
+     {
+      "type": "jobs",
+      "items": [
+       {
+        "title": "Senior React Native Developer",
+        "level": "✔ Verified Employer",
+        "meta": [
+         "Indore (Crystal IT Park)",
+         "Full-time",
+         "3–6 Years"
+        ],
+        "tags": [
+         "React Native",
+         "TypeScript",
+         "Redux",
+         "Urgent"
+        ],
+        "salary": "₹8L – ₹15L /year",
+        "featured": true
+       },
+       {
+        "title": "Junior React Native Developer",
+        "level": "✔ Verified Employer",
+        "meta": [
+         "Indore",
+         "Full-time",
+         "0–2 Years"
+        ],
+        "tags": [
+         "React Native",
+         "JavaScript",
+         "Firebase",
+         "Fresher OK"
+        ],
+        "salary": "₹3L – ₹6L /year",
+        "featured": false
+       },
+       {
+        "title": "React Native Team Lead – Indore",
+        "level": "✔ Verified Employer",
+        "meta": [
+         "Indore / Bengaluru",
+         "Full-time",
+         "6+ Years"
+        ],
+        "tags": [
+         "React Native",
+         "TypeScript",
+         "Leadership",
+         "Hot Role"
+        ],
+        "salary": "₹15L – ₹25L /year",
+        "featured": false
+       },
+       {
+        "title": "React Native Developer – Remote",
+        "level": "Remote / Hybrid",
+        "meta": [
+         "Remote",
+         "Full-time",
+         "2–4 Years"
+        ],
+        "tags": [
+         "React Native",
+         "Redux",
+         "REST API",
+         "Remote"
+        ],
+        "salary": "₹6L – ₹12L /year",
+        "featured": false
+       },
+       {
+        "title": "React Native Developer Intern – Indore",
+        "level": "Internship – Indore",
+        "meta": [
+         "Indore",
+         "Internship",
+         "Fresher"
+        ],
+        "tags": [
+         "JavaScript",
+         "React Native Basics",
+         "Fresher"
+        ],
+        "salary": "₹10K – ₹15K /month",
+        "featured": false
+       },
+       {
+        "title": "React Native UI Developer – Indore",
+        "level": "Design + Development",
+        "meta": [
+         "Indore",
+         "Hybrid",
+         "1–3 Years"
+        ],
+        "tags": [
+         "React Native",
+         "Expo",
+         "UI/UX"
+        ],
+        "salary": "₹5L – ₹10L /year",
+        "featured": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Why React Native Developers Choose Us in Indore",
+    "badge": "Why UltraModern Technologies",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "We offer more than just a job — a structured career path with real cross-platform mobile development impact."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-chart-line",
+        "title": "Real Career Growth in Mobile App Development",
+        "text": [
+         "Structured path from Junior React Native Developer to Senior Developer, Team Lead, and Mobile Architect with real project ownership."
+        ]
+       },
+       {
+        "icon": "fas fa-mobile-alt",
+        "title": "Work on Cross-Platform Mobile Apps",
+        "text": [
+         "Build Android and iOS apps using a single codebase with React Native and modern JavaScript frameworks for real users."
+        ]
+       },
+       {
+        "icon": "fas fa-globe",
+        "title": "International Project Exposure",
+        "text": [
+         "Work on global mobile applications with real users, scalable architecture, and production-level performance standards."
+        ]
+       },
+       {
+        "icon": "fas fa-laptop-code",
+        "title": "Modern Tech Stack",
+        "text": [
+         "Work with React Native, TypeScript, Redux, REST APIs, Firebase, Expo, and modern mobile UI libraries every day."
+        ]
+       },
+       {
+        "icon": "fas fa-laptop-house",
+        "title": "Flexible Work Environment in Indore",
+        "text": [
+         "Hybrid and remote work options available depending on project requirements for React Native developer roles."
+        ]
+       },
+       {
+        "icon": "fas fa-users-cog",
+        "title": "Strong Engineering Culture",
+        "text": [
+         "Work with developers who value clean code, performance, and scalable mobile architecture at our Indore office."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "React Native Developer Responsibilities",
+    "badge": "Role Details",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "As a React Native Developer at UltraModern Technologies Indore, you will own the full lifecycle of cross-platform mobile app development from design integration to Play Store and App Store deployment."
+      ]
+     },
+     {
+      "type": "list",
+      "items": [
+       "Build cross-platform mobile applications using React Native",
+       "Develop reusable components using JavaScript and TypeScript",
+       "Integrate REST APIs and third-party services",
+       "Work with Redux / Context API for state management",
+       "Optimize app performance for Android and iOS devices",
+       "Collaborate with UI/UX designers for mobile interfaces",
+       "Debug and fix production issues across platforms",
+       "Publish apps on Google Play Store and Apple App Store",
+       "Maintain clean, scalable, and reusable codebase",
+       "Stay updated with React Native ecosystem updates"
+      ]
+     },
+     {
+      "type": "subheading",
+      "items": [
+       "Core Technologies You'll Use"
+      ]
+     },
+     {
+      "type": "chips",
+      "items": [
+       {
+        "icon": null,
+        "text": "React Native"
+       },
+       {
+        "icon": null,
+        "text": "JavaScript ES6+"
+       },
+       {
+        "icon": null,
+        "text": "TypeScript"
+       },
+       {
+        "icon": null,
+        "text": "Redux"
+       },
+       {
+        "icon": null,
+        "text": "Context API"
+       },
+       {
+        "icon": null,
+        "text": "Firebase"
+       },
+       {
+        "icon": null,
+        "text": "REST API"
+       },
+       {
+        "icon": null,
+        "text": "Expo"
+       },
+       {
+        "icon": null,
+        "text": "Git & GitHub"
+       },
+       {
+        "icon": null,
+        "text": "Metro Bundler"
+       },
+       {
+        "icon": null,
+        "text": "Android Studio"
+       },
+       {
+        "icon": null,
+        "text": "Xcode"
+       }
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-map-marker-alt",
+        "title": "Job Location",
+        "text": [
+         "<strong>Crystal IT Park, Indore, Madhya Pradesh</strong><br>Hybrid & Remote options available.<br>Bengaluru office openings also available."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Skills Required for React Native Developer Jobs in Indore",
+    "badge": "Requirements",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Strong JavaScript fundamentals, cross-platform mobile knowledge, and a growth mindset — that's what we look for."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-laptop-code",
+        "title": "Technical Skills",
+        "text": [],
+        "list": [
+         "React Native (Mandatory)",
+         "JavaScript (ES6+)",
+         "TypeScript (Preferred)",
+         "Redux / Context API",
+         "REST API Integration",
+         "Firebase (Auth, FCM, Firestore)",
+         "Git & GitHub",
+         "Mobile UI/UX understanding",
+         "Basic Android & iOS architecture",
+         "Expo (for fast development)"
+        ]
+       },
+       {
+        "icon": "fas fa-brain",
+        "title": "Soft Skills",
+        "text": [],
+        "list": [
+         "Problem-solving mindset",
+         "Strong debugging skills",
+         "Team collaboration ability",
+         "Clear written & verbal communication",
+         "Self-motivated & ownership-driven",
+         "Willingness to learn & adapt",
+         "Attention to detail in code quality"
+        ]
+       },
+       {
+        "icon": "fas fa-graduation-cap",
+        "title": "Education & Portfolio",
+        "text": [],
+        "list": [
+         "BCA / B.Tech / MCA",
+         "Equivalent experience considered",
+         "Strong React Native GitHub portfolio",
+         "Play Store / App Store published apps a plus",
+         "Open source contributions valued",
+         "Freshers with strong projects welcome"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Technologies for React Native Development in Indore Office",
+    "badge": "Tech Stack",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Modern cross-platform mobile development tools used across all our React Native projects in Indore."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fab fa-react",
+        "title": "React Native",
+        "text": [
+         "Core Framework"
+        ]
+       },
+       {
+        "icon": "fab fa-js-square",
+        "title": "JavaScript ES6+",
+        "text": [
+         "Primary Language"
+        ]
+       },
+       {
+        "icon": "fas fa-code",
+        "title": "TypeScript",
+        "text": [
+         "Typed JavaScript"
+        ]
+       },
+       {
+        "icon": "fas fa-layer-group",
+        "title": "Redux / Context API",
+        "text": [
+         "State Management"
+        ]
+       },
+       {
+        "icon": "fas fa-fire",
+        "title": "Firebase",
+        "text": [
+         "Backend Platform"
+        ]
+       },
+       {
+        "icon": "fas fa-exchange-alt",
+        "title": "REST APIs & JSON",
+        "text": [
+         "API Integration"
+        ]
+       },
+       {
+        "icon": "fab fa-android",
+        "title": "Android Studio",
+        "text": [
+         "Android Build Tool"
+        ]
+       },
+       {
+        "icon": "fab fa-apple",
+        "title": "Xcode",
+        "text": [
+         "iOS Build Tool"
+        ]
+       },
+       {
+        "icon": "fab fa-git-alt",
+        "title": "Git & GitHub",
+        "text": [
+         "Version Control"
+        ]
+       },
+       {
+        "icon": "fas fa-bolt",
+        "title": "Expo",
+        "text": [
+         "Fast Development"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "React Native Developer Career Growth in Indore",
+    "badge": "Career Path",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Skill-based promotion — not just experience-based growth at UltraModern Technologies, Indore."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-user-graduate",
+        "title": "Junior React Native Developer",
+        "text": [
+         "Junior Developer"
+        ]
+       },
+       {
+        "icon": "fas fa-code",
+        "title": "Mid-Level React Native Developer",
+        "text": [
+         "Mid Level"
+        ]
+       },
+       {
+        "icon": "fas fa-star",
+        "title": "Senior React Native Developer",
+        "text": [
+         "Senior Dev"
+        ]
+       },
+       {
+        "icon": "fas fa-users",
+        "title": "Mobile Development Team Lead",
+        "text": [
+         "Team Lead"
+        ]
+       },
+       {
+        "icon": "fas fa-drafting-compass",
+        "title": "Mobile Architect",
+        "text": [
+         "Architect"
+        ]
+       },
+       {
+        "icon": "fas fa-crown",
+        "title": "Engineering Manager",
+        "text": [
+         "Manager"
+        ]
+       }
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "We promote developers based on skills, ownership, and performance — not just experience at our Indore office."
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "process",
+    "title": "Our React Native Developer Hiring Process",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Our hiring process is straightforward, transparent, and respects your time"
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-file-alt",
+        "title": "Application Review",
+        "text": [
+         "Submit your resume with GitHub profile or React Native portfolio for initial screening."
+        ],
+        "step": "1"
+       },
+       {
+        "icon": "fas fa-laptop-code",
+        "title": "Technical Task",
+        "text": [
+         "Complete a real React Native project task reflecting actual production scenarios."
+        ],
+        "step": "2"
+       },
+       {
+        "icon": "fas fa-comments",
+        "title": "Technical Interview",
+        "text": [
+         "In-depth discussion on React Native architecture, JavaScript coding, and mobile patterns."
+        ],
+        "step": "3"
+       },
+       {
+        "icon": "fas fa-user-tie",
+        "title": "HR Discussion",
+        "text": [
+         "Salary negotiation, role expectations, and joining timeline discussion."
+        ],
+        "step": "4"
+       },
+       {
+        "icon": "fas fa-handshake",
+        "title": "Final Offer",
+        "text": [
+         "Receive your offer letter and welcome to UltraModern Technologies Indore!"
+        ],
+        "step": "5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Work Culture at UltraModern Technologies Indore",
+    "badge": "Work Culture",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "A modern IT company in Indore focused on building high-quality mobile applications with engineering excellence, clean architecture, and passionate React Native developers who take real ownership."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-sync-alt",
+        "title": "Agile Development Environment",
+        "text": [
+         "Sprint-based delivery with daily standups, planning, and retrospectives."
+        ]
+       },
+       {
+        "icon": "fas fa-lightbulb",
+        "title": "Direct Involvement in Product Planning",
+        "text": [
+         "Developers are included in architecture, product, and business decisions."
+        ]
+       },
+       {
+        "icon": "fas fa-chalkboard-teacher",
+        "title": "Regular Technical Learning Sessions",
+        "text": [
+         "Weekly knowledge-sharing and monthly deep-dive React Native tech sessions."
+        ]
+       },
+       {
+        "icon": "fas fa-search-plus",
+        "title": "Code Review Culture",
+        "text": [
+         "Structured PR reviews to ensure clean, maintainable, and scalable code quality."
+        ]
+       },
+       {
+        "icon": "fas fa-building",
+        "title": "Clean Architecture-Focused Development",
+        "text": [
+         "We build scalable React Native apps following modern architecture patterns."
+        ]
+       }
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-chart-bar",
+        "title": "Our Indore Office at a Glance",
+        "text": [
+         "50+Team Members in Indore 4+Years in Indore 30+Mobile Projects 100%Real Project Work Crystal IT Park, IndoreMadhya Pradesh – 452010"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "faq",
+    "title": "React Native Developer Jobs in Indore – FAQs",
+    "badge": "FAQs",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Common questions about React Native developer jobs at UltraModern Technologies, Indore."
+      ]
+     },
+     {
+      "type": "faq",
+      "items": [
+       {
+        "q": "Are React Native developer jobs available for freshers in Indore?",
+        "a": "Yes, we hire freshers with strong React Native fundamentals and project experience. If you have built personal or academic cross-platform mobile apps using React Native and JavaScript, we welcome your application for React Native Developer Jobs in Indore at UltraModern Technologies."
+       },
+       {
+        "q": "What skills are required for React Native jobs in Indore?",
+        "a": "The primary skills required are React Native, JavaScript (ES6+), REST API integration, and basic mobile development knowledge. TypeScript, Redux, Firebase knowledge and Git version control are also highly valued for our React Native Developer Jobs in Indore."
+       },
+       {
+        "q": "Are React Native Developer Jobs in Indore good for freshers?",
+        "a": "Yes, freshers with strong React Native fundamentals, JavaScript knowledge, and project experience can apply for React Native Developer Jobs in Indore at UltraModern Technologies. We evaluate based on your skills and portfolio, not just your years of experience."
+       },
+       {
+        "q": "What is the salary for React Native developers in Indore?",
+        "a": "Salary depends on experience, skills, and interview performance. We offer competitive packages for React Native Developer Jobs in Indore with performance-based growth. Junior roles start from ₹3L–₹6L per year, while senior roles can go up to ₹15L+ per year."
+       },
+       {
+        "q": "Do I need experience to apply for React Native jobs in Indore?",
+        "a": "No, freshers and experienced developers can both apply for React Native Developer Jobs in Indore. Strong portfolio projects are highly preferred. Whether you are a fresher or a seasoned developer, we assess your skills, code quality, and problem-solving ability during the hiring process."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Apply for React Native Developer Jobs in Indore Today",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Start your career in mobile app development with UltraModern Technologies. Work on real-world React Native applications, learn modern development practices, and grow your career in a professional IT environment in Indore."
+      ]
+     },
+     {
+      "type": "buttons",
+      "items": [
+       {
+        "text": "Apply Now for React Native Jobs in Indore",
+        "href": "/contact"
+       },
+       {
+        "text": "Contact Hiring Team",
+        "href": "/contact"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "work-from-home-job",
+  "meta": {
+   "title": "Work From Home Jobs in Indore",
+   "description": "Explore work from home jobs across web development, SEO, content, UI/UX, app development, and more at UltraModern Technologies. Hiring across India. Apply now.",
+   "keywords": "work from home jobs in indore, remote jobs india, work from home it jobs, remote developer jobs, work from home seo jobs",
+   "canonical": "https://www.ultramoderntechnologies.com/work-from-home-jobs-in-indore.html",
+   "jsonLd": [
+    [
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Remote Web Developer",
+      "description": "Build client websites and internal tools using React, WordPress, Node.js. Fully remote position at UltraModern Technologies.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-REMOTE-DEV-001"
+      },
+      "datePosted": "2025-02-10",
+      "validThrough": "2025-10-15T00:00",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Remote",
+        "addressRegion": "India",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 1200000,
+        "unitText": "YEAR"
+       }
+      }
+     },
+     {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Remote SEO Specialist",
+      "description": "Manage SEO strategy, rankings, and conversions for clients across industries. Remote role at UltraModern Technologies.",
+      "identifier": {
+       "@type": "PropertyValue",
+       "name": "UltraModern Technologies",
+       "value": "UMT-REMOTE-SEO-002"
+      },
+      "datePosted": "2025-02-10",
+      "validThrough": "2025-10-15T00:00",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+       "@type": "Organization",
+       "name": "UltraModern Technologies Pvt Ltd",
+       "sameAs": "https://www.ultramoderntechnologies.com"
+      },
+      "jobLocation": {
+       "@type": "Place",
+       "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Remote",
+        "addressRegion": "India",
+        "addressCountry": "IN"
+       }
+      },
+      "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "INR",
+       "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 350000,
+        "maxValue": 800000,
+        "unitText": "YEAR"
+       }
+      }
+     }
+    ],
+    {
+     "@context": "https://schema.org",
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Are the work from home jobs at UltraModern Technologies permanent or contractual?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most remote roles are permanent positions on our payroll, not short-term contracts or freelance arrangements. We hire for the long term."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Can I apply if I live outside a major city?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Our remote jobs are open to candidates from anywhere in India. Several team members work from Tier 2 and Tier 3 cities."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What is the working hours expectation for remote employees?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most remote roles require a 4–6 hour overlap with our Indore-based team, roughly between 10 AM and 4 PM IST. Outside that window, your schedule is more flexible."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Do you hire freshers for remote positions?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for certain roles. Content writing, SEO, customer support, and education counseling are areas where we hire freshers with demonstrable interest."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is there any in-person requirement for remote roles?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most remote roles, in-person attendance is not required. We organize occasional all-team meetups, discussed openly during hiring."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How do remote employees communicate with their teams?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Day-to-day communication happens through Slack and Google Workspace. Video calls are used for design reviews, sprint meetings, and presentations."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Are remote employees eligible for the same benefits as office-based staff?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Remote employees are part of the same team structure and receive the same consideration for appraisals, promotions, certifications, and performance bonuses."
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "hero": {
+   "title": "Work From Home Jobs in Indore",
+   "image": null,
+   "badge": "Now Hiring – Remote Positions Across India!",
+   "text": [
+    "Looking for Work From Home Jobs in India? Join UltraModern Technologies and work remotely on real projects in tech, marketing, design, and support roles. Hiring across India. Apply now."
+   ]
+  },
+  "sections": [
+   {
+    "kind": "stats",
+    "title": null,
+    "badge": null,
+    "parts": [
+     {
+      "type": "stats",
+      "items": [
+       {
+        "value": "45+",
+        "label": "Remote Employees"
+       },
+       {
+        "value": "15+",
+        "label": "Cities Covered"
+       },
+       {
+        "value": "8",
+        "label": "Departments Hiring"
+       },
+       {
+        "value": "100%",
+        "label": "Remote-First Culture"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Available Work From Home Opportunities",
+    "badge": "Remote Opportunities",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "These are the departments where we hire remotely. Specific openings vary, but these represent where we consistently need people."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-code",
+        "title": "Web Development",
+        "text": [
+         "Frontend and full-stack developers working on React, WordPress, Node.js. Remote-friendly from day one with async delivery and weekly syncs."
+        ]
+       },
+       {
+        "icon": "fas fa-mobile-alt",
+        "title": "App Development",
+        "text": [
+         "React Native and native Android/iOS developers. Hospital management, e-commerce, B2B tools. Show us an app you've shipped."
+        ]
+       },
+       {
+        "icon": "fas fa-paint-brush",
+        "title": "UI/UX Design",
+        "text": [
+         "Wireframe to high-fidelity in Figma. Asynchronous design feedback through recorded walkthroughs and annotated files."
+        ]
+       },
+       {
+        "icon": "fas fa-chart-line",
+        "title": "SEO & Digital Marketing",
+        "text": [
+         "SEO specialists, paid media managers, digital marketing strategists. Results matter — traffic, rankings, conversions."
+        ]
+       },
+       {
+        "icon": "fas fa-pen-fancy",
+        "title": "Content Writing",
+        "text": [
+         "Writers who understand SEO but write for humans. Blogs, landing pages, service content, long-form articles."
+        ]
+       },
+       {
+        "icon": "fas fa-database",
+        "title": "Software Development",
+        "text": [
+         "Backend and full-stack engineers for CRMs, ERPs, inventory systems, SaaS tools. Python, PHP, Java, Node.js."
+        ]
+       },
+       {
+        "icon": "fas fa-headset",
+        "title": "Customer Support",
+        "text": [
+         "Support specialists handling client communication, ticket resolution, onboarding. Fully remote with strong written communication required."
+        ]
+       },
+       {
+        "icon": "fas fa-graduation-cap",
+        "title": "Education Counseling",
+        "text": [
+         "Counselors helping students navigate courses, career paths, and educational decisions from home."
+        ]
+       }
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "If you don't see your exact role listed, apply anyway and tell us what you do. We've made hires we didn't have open requisitions for when the person was the right fit."
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "How We Manage Remote Teams",
+    "badge": "How We Work",
+    "parts": [
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-envelope",
+        "title": "Written Communication First",
+        "text": [
+         "Project updates, decisions, and feedback in writing. Creates a record, gives time to think, works across time zones."
+        ]
+       },
+       {
+        "icon": "fas fa-clock",
+        "title": "Defined Availability Windows",
+        "text": [
+         "4–6 hour overlap with Indore core team. Work from anywhere in India without a rigid 9-to-6 schedule."
+        ]
+       },
+       {
+        "icon": "fas fa-tasks",
+        "title": "Sprint-Based Delivery",
+        "text": [
+         "Weekly or biweekly sprints. Managed by what got done, not hours logged."
+        ]
+       },
+       {
+        "icon": "fas fa-video",
+        "title": "Regular Video Check-ins",
+        "text": [
+         "2–3 times per week for most teams. Monthly one-on-ones with your lead."
+        ]
+       },
+       {
+        "icon": "fas fa-user-friends",
+        "title": "Onboarding with a Buddy",
+        "text": [
+         "New remote hires paired with a team member from same department for first month."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Tools We Use for Remote Collaboration",
+    "badge": "Remote Collaboration",
+    "parts": [
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fab fa-slack",
+        "title": "Slack",
+        "text": [
+         "Day-to-day communication"
+        ]
+       },
+       {
+        "icon": "fab fa-google",
+        "title": "Google Meet",
+        "text": [
+         "Video calls & reviews"
+        ]
+       },
+       {
+        "icon": "fab fa-figma",
+        "title": "Figma",
+        "text": [
+         "Design collaboration"
+        ]
+       },
+       {
+        "icon": "fab fa-github",
+        "title": "GitHub",
+        "text": [
+         "Version control"
+        ]
+       },
+       {
+        "icon": "fas fa-trello",
+        "title": "Trello/Jira",
+        "text": [
+         "Task tracking"
+        ]
+       },
+       {
+        "icon": "fas fa-film",
+        "title": "Loom",
+        "text": [
+         "Async video updates"
+        ]
+       },
+       {
+        "icon": "fas fa-file-alt",
+        "title": "Notion",
+        "text": [
+         "Documentation & SOPs"
+        ]
+       },
+       {
+        "icon": "fas fa-cloud",
+        "title": "Google Workspace",
+        "text": [
+         "Documents & scheduling"
+        ]
+       }
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "What matters is how they're used. We have documented workflows for each tool so new team members aren't left guessing."
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Benefits of Working From Home With Us",
+    "badge": "Benefits",
+    "parts": [
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-car",
+        "title": "No Commute",
+        "text": [
+         "Several hours a week back in your life."
+        ]
+       },
+       {
+        "icon": "fas fa-map-marker-alt",
+        "title": "Work From Anywhere in India",
+        "text": [
+         "Open to candidates from Tier 2 and Tier 3 cities."
+        ]
+       },
+       {
+        "icon": "fas fa-calendar-alt",
+        "title": "Flexible Scheduling",
+        "text": [
+         "Work when you're most productive within overlap hours."
+        ]
+       },
+       {
+        "icon": "fas fa-users",
+        "title": "A Real Team, Not Just a Client",
+        "text": [
+         "You're part of UltraModern, not a freelancer."
+        ]
+       },
+       {
+        "icon": "fas fa-chart-line",
+        "title": "Same Growth Paths",
+        "text": [
+         "Remote employees considered for promotions and certifications."
+        ]
+       },
+       {
+        "icon": "fas fa-comment-dots",
+        "title": "Honest Communication",
+        "text": [
+         "You'll know where you stand. No surprises at review time."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "We Hire From All Backgrounds",
+    "badge": "Who Can Apply",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Who have built something — portfolio, GitHub, blog",
+       "Wanting flexibility without career step back",
+       "Limited local options, unlimited remote potential"
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "process",
+    "title": "Remote Hiring Process",
+    "badge": null,
+    "parts": [
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-file-alt fa-2x",
+        "title": "Application",
+        "text": [
+         "Resume + portfolio/GitHub"
+        ]
+       },
+       {
+        "icon": "fas fa-search fa-2x",
+        "title": "Initial Review",
+        "text": [
+         "Within 5–7 working days"
+        ]
+       },
+       {
+        "icon": "fas fa-tasks fa-2x",
+        "title": "Skill Assessment",
+        "text": [
+         "Short task, your own pace"
+        ]
+       },
+       {
+        "icon": "fas fa-video fa-2x",
+        "title": "Video Interview",
+        "text": [
+         "30–45 min conversation"
+        ]
+       },
+       {
+        "icon": "fas fa-handshake fa-2x",
+        "title": "Offer",
+        "text": [
+         "Under 3 weeks from application"
+        ]
+       }
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "We aim to complete this process in under three weeks from application to offer."
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "faq",
+    "title": "Work From Home Jobs – FAQs",
+    "badge": "FAQs",
+    "parts": [
+     {
+      "type": "faq",
+      "items": [
+       {
+        "q": "Are the work from home jobs at UltraModern Technologies permanent or contractual?",
+        "a": "Most remote roles are permanent positions on our payroll, not short-term contracts or freelance arrangements. We hire for the long term and expect the same from team members."
+       },
+       {
+        "q": "Can I apply if I live outside a major city?",
+        "a": "Yes. Our remote jobs are open to candidates from anywhere in India. Several team members work from Tier 2 and Tier 3 cities. As long as you have a stable internet connection and can attend video calls during overlap hours, location is not a barrier."
+       },
+       {
+        "q": "What is the working hours expectation for remote employees?",
+        "a": "Most remote roles require a 4–6 hour overlap with our Indore-based team, roughly between 10 AM and 4 PM IST. Outside that window, your schedule is more flexible. We don't measure attendance by hours logged."
+       },
+       {
+        "q": "Do you hire freshers for remote positions?",
+        "a": "Yes, for certain roles. Content writing, SEO, customer support, and education counseling are areas where we hire freshers with a demonstrable interest in the field. Development and design roles typically require some prior project experience, even if it's personal or academic work."
+       },
+       {
+        "q": "Is there any in-person requirement for remote roles?",
+        "a": "For most remote roles, in-person attendance is not required for day-to-day work. We do organize occasional all-team meetups, and some senior or client-facing roles may require periodic travel. This is discussed openly during the hiring process."
+       },
+       {
+        "q": "How do remote employees communicate with their teams?",
+        "a": "Day-to-day communication happens through Slack and Google Workspace. Client communication follows project-specific protocols. Video calls are used for design reviews, sprint meetings, and client presentations."
+       },
+       {
+        "q": "Are remote employees eligible for the same benefits as office-based staff?",
+        "a": "Yes. Remote employees are part of the same team structure and receive the same consideration for appraisals, promotions, certifications, and performance bonuses."
+       },
+       {
+        "q": "What kind of internet connection is required?",
+        "a": "A stable broadband connection with enough bandwidth to support video calls is the baseline requirement. We recommend at least 10 Mbps for consistent performance."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Remote work is a real option here, not a perk that disappears once things get busy.",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "If you've been looking for work from home jobs in India where the role is serious, the team is real, and the growth is actual — tell us about yourself."
+      ]
+     },
+     {
+      "type": "buttons",
+      "items": [
+       {
+        "text": "Apply for Remote Positions at UltraModern Technologies",
+        "href": "/contact"
+       },
+       {
+        "text": "Contact HR Team",
+        "href": "/contact"
+       }
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "Open roles are listed on our careers portal. If you don't see an exact match, send an open application with your background and what you're looking for."
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

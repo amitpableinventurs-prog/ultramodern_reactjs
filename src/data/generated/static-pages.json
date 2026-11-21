@@ -1,0 +1,429 @@
+[
+ {
+  "slug": "about",
+  "meta": {
+   "title": "About UltraModern Technologies | Best Website Development Company in Indore",
+   "description": "UltraModern Technologies is a leading website development company, mobile app development company, and digital marketing agency in Indore. Discover our story, team, and full-service IT solutions.",
+   "keywords": "best website development company, website development services, mobile app development company, seo services company, digital marketing agency, software development company, AI machine learning solutions, IT consulting services, ultramodern technologies, web development india, about ultramodern technologies",
+   "canonical": "https://www.ultramoderntechnologies.com/about.html",
+   "jsonLd": [
+    {
+     "@context": "https://schema.org",
+     "@type": "LocalBusiness",
+     "name": "UltraModern Technologies Pvt Ltd.",
+     "image": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+     "url": "https://ultramoderntechnologies.com/",
+     "telephone": "+91-8640089400",
+     "email": "ultramoderntechnologies01@gmail.com",
+     "logo": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "565, Sapna Sangeeta Rd, nearby Axis Bank, Snehnagar",
+      "addressLocality": "Indore",
+      "addressRegion": "Madhya Pradesh",
+      "postalCode": "452001",
+      "addressCountry": "IN"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "22.7196",
+      "longitude": "75.8577"
+     },
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday"
+      ],
+      "opens": "10:00",
+      "closes": "19:00"
+     },
+     "sameAs": [
+      "https://www.facebook.com/people/Ultra-Modern-Technologies/61550345835440/",
+      "https://www.instagram.com/ultramodern_technologies/",
+      "https://www.linkedin.com/company/ultramodern-technology"
+     ],
+     "hasMap": "https://www.google.com/maps/place/UltraModern+Technologies+Pvt.+Ltd./data=!4m2!3m1!1s0x0:0x687eaae2d2acdc7a?sa=X&ved=1t:2428&ictx=111",
+     "priceRange": "$$"
+    }
+   ]
+  },
+  "hero": {
+   "title": "Your Trusted Technology Partner for Business Growth",
+   "image": "/IMG/popup (1).jpeg",
+   "badge": "10+ Years of Delivering Digital Excellence",
+   "text": [
+    "UltraModern Technologies is a full-service IT company helping businesses across India build stronger digital foundations. From custom website development and mobile apps to enterprise software, AI solutions, and result-driven digital marketing we bring the right technology and the right team to every project."
+   ]
+  },
+  "sections": [
+   {
+    "kind": "default",
+    "title": "The UltraModern Journey",
+    "badge": "OUR STORY",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "A decade of growth, learning, and building technology that genuinely makes a difference"
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-seedling",
+        "title": "Founded in Indore",
+        "text": [
+         "UltraModern Technologies Pvt Ltd was established with a clear purpose deliver honest, high-quality website development and software solutions to growing businesses across India."
+        ]
+       },
+       {
+        "icon": "fas fa-chart-line",
+        "title": "Team Expands, Scope Widens",
+        "text": [
+         "We grew to a 12-member team and landed our first enterprise client. With 50+ completed projects, our reputation as a reliable web development and software development company took hold."
+        ]
+       },
+       {
+        "icon": "fas fa-layer-group",
+        "title": "Full-Service Capability Achieved",
+        "text": [
+         "We formally launched our digital marketing agency and mobile app development divisions. For the first time, clients could get their website built, ranked on Google, and supported by a dedicated app all under one roof."
+        ]
+       },
+       {
+        "icon": "fas fa-building",
+        "title": "Bengaluru Office & AI Division",
+        "text": [
+         "We opened our Bengaluru branch and introduced AI & Machine Learning solutions to our service portfolio. With a team of 35+ professionals, UltraModern became a genuinely multi-city IT company serving clients across India."
+        ]
+       },
+       {
+        "icon": "fas fa-trophy",
+        "title": "250+ Projects, 150+ Clients",
+        "text": [
+         "A milestone year. With 250+ successful projects delivered and happy clients across 12+ cities, UltraModern was recognised as one of India's trusted website development services and software solution providers."
+        ]
+       },
+       {
+        "icon": "fas fa-rocket",
+        "title": "Leading. Growing. Innovating.",
+        "text": [
+         "Today, UltraModern Technologies operates with 50+ professionals across Indore and Bengaluru. We are a full-service IT consulting and delivery partner covering web, mobile, marketing, AI/ML, and enterprise software with ambitious plans to expand into new markets across India and internationally."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Building Technology That<br>Businesses Can Rely On",
+    "badge": "Who We Are",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "UltraModern Technologies Pvt Ltd is a full-service IT company based in Indore, with offices in Bengaluru and clients across 12+ cities in India. We work with startups, SMEs, and established enterprises to design, build, and grow their digital presence across website development, mobile application development, software engineering, digital marketing, and AI-driven solutions.",
+       "What sets us apart is the combination of technical depth and practical focus. Our team doesn't just write code we understand business goals, timelines, and budgets. Every solution we deliver is built to work in the real world, whether that's a fast-loading ecommerce site, a custom ERP system, a cross-platform mobile app, or an SEO campaign that generates consistent leads month after month.",
+       "Over the past decade, we've delivered 250+ successful projects for clients in healthcare, retail, education, real estate, logistics, and more. Our client retention rate and repeat business speak for themselves businesses come back to us because we deliver on what we promise, communicate clearly throughout the project, and stand behind our work long after launch."
+      ]
+     },
+     {
+      "type": "stats",
+      "items": [
+       {
+        "value": "58+",
+        "label": "Projects Delivered"
+       },
+       {
+        "value": "150+",
+        "label": "Happy Clients"
+       },
+       {
+        "value": "98%",
+        "label": "Client Satisfaction"
+       },
+       {
+        "value": "12+",
+        "label": "Years of Experience"
+       }
+      ]
+     },
+     {
+      "type": "subheading",
+      "items": [
+       "What Makes UltraModern Different"
+      ]
+     },
+     {
+      "type": "text",
+      "items": [
+       "We've worked with enough businesses to know that the biggest frustrations aren't technical they're about communication, timelines, and trust. Here's how we address those directly."
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-lightbulb",
+        "title": "Innovation With Purpose",
+        "text": [
+         "We don't use new technology for its own sake. Every tool, framework, or solution we recommend is chosen because it genuinely fits your business goals and will serve you well over time not just at launch."
+        ]
+       },
+       {
+        "icon": "fas fa-medal",
+        "title": "Uncompromising Quality",
+        "text": [
+         "Whether it's a five-page business website or a complex enterprise platform, our quality standards don't change based on project size. Every deliverable goes through structured review before it reaches you."
+        ]
+       },
+       {
+        "icon": "fas fa-comments",
+        "title": "Transparent Communication",
+        "text": [
+         "You'll always know where your project stands. Clear timelines, regular updates, honest feedback, and no hidden costs our clients consistently say this is one of the main reasons they come back to us."
+        ]
+       },
+       {
+        "icon": "fas fa-headset",
+        "title": "Dedicated Client Support",
+        "text": [
+         "Our relationship with you doesn't end at project delivery. We provide prompt post-launch support, maintenance, and guidance because the real test of a solution is how it performs once it's live."
+        ]
+       },
+       {
+        "icon": "fas fa-users-cog",
+        "title": "Experienced, Versatile Team",
+        "text": [
+         "Our team of 50+ professionals spans web development, mobile apps, software engineering, UI/UX design, digital marketing, and AI giving you access to a wide range of expertise under a single accountable partner."
+        ]
+       },
+       {
+        "icon": "fas fa-chart-line",
+        "title": "Results, Not Just Deliverables",
+        "text": [
+         "A website that doesn't generate leads or an app that users don't open aren't successes they're missed opportunities. We measure our work against your actual business outcomes, not just the items on a project checklist."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Our Services",
+    "badge": "WHAT WE OFFER",
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "From your first website to complex enterprise software we cover every stage of your digital journey"
+      ]
+     },
+     {
+      "type": "cards",
+      "items": [
+       {
+        "icon": "fas fa-code",
+        "title": "Best Website Development Company",
+        "text": [
+         "We design and build websites that look great, load fast, and are built to rank. Whether you need a business site, ecommerce store, or complex web portal, our development team handles it end-to-end clean code, mobile-first, and built around your goals."
+        ],
+        "list": [
+         "Business & Corporate Websites",
+         "E-Commerce Development",
+         "CRM & ERP Web Portals",
+         "Healthcare & Education Portals",
+         "Real Estate & Travel Portals"
+        ],
+        "step": "01",
+        "href": "/website-design-and-development-company-in-indore"
+       },
+       {
+        "icon": "fas fa-mobile-alt",
+        "title": "Mobile App Development Company",
+        "text": [
+         "Your users are on mobile your business should be too. We develop Android and iOS apps that are fast, intuitive, and built for real-world usage. From consumer apps to enterprise tools, we handle native, hybrid, and cross-platform builds with equal confidence."
+        ],
+        "list": [
+         "Android App Development",
+         "iOS App Development",
+         "Hybrid App Development",
+         "React Native Apps",
+         "Windows App Development"
+        ],
+        "step": "02",
+        "href": "/best-mobile-app-development-company-in-indore"
+       },
+       {
+        "icon": "fas fa-bullhorn",
+        "title": "Digital Marketing Agency",
+        "text": [
+         "Visibility without conversions is wasted traffic. Our digital marketing team combines SEO, paid ads, social media, and content strategy to attract the right audience and turn them into paying customers. We manage campaigns that produce consistent, measurable results."
+        ],
+        "list": [
+         "Search Engine Optimisation (SEO)",
+         "Google Ads & Meta Ads",
+         "Social Media Marketing",
+         "Google My Business Management",
+         "Content & SEO Copywriting"
+        ],
+        "step": "03",
+        "href": "/digital-marketing-company-in-indore"
+       },
+       {
+        "icon": "fas fa-laptop-code",
+        "title": "Software Development Company",
+        "text": [
+         "Off-the-shelf software rarely fits perfectly. We build custom software solutions HR systems, hospital management platforms, inventory tools, CRM applications, and more that match your exact workflows, integrate with your existing systems, and scale as you grow."
+        ],
+        "list": [
+         "HR & Payroll Management",
+         "Hospital Management Software",
+         "School Management Software",
+         "Inventory Management",
+         "Jewellery & Real Estate Software"
+        ],
+        "step": "04",
+        "href": "/software-development-company-in-indore"
+       },
+       {
+        "icon": "fas fa-brain",
+        "title": "AI & Machine Learning Solutions",
+        "text": [
+         "AI isn't just for large enterprises. We help businesses of all sizes use machine learning, predictive analytics, and intelligent automation to make better decisions and reduce manual work whether that's a smart recommendation engine or a chatbot that handles routine customer queries."
+        ],
+        "list": [
+         "AI Integration & Consulting",
+         "Machine Learning Models",
+         "Data Analytics & Business Intelligence",
+         "Predictive Analytics",
+         "NLP & Chatbot Solutions"
+        ],
+        "step": "05",
+        "href": "/artificial-intelligence-company-in-indore"
+       },
+       {
+        "icon": "fas fa-paint-brush",
+        "title": "UI/UX Design & IT Consulting Services",
+        "text": [
+         "Good technology starts with good design. Our UI/UX team creates interfaces that users actually enjoy clear, accessible, and purposefully designed. We also offer IT consulting to help businesses make the right technology decisions before investing in development."
+        ],
+        "list": [
+         "UI/UX Design & Prototyping",
+         "Logo & Brand Identity Design",
+         "Brochure & Marketing Design",
+         "IT Strategy & Consulting",
+         "Technology Audit & Roadmapping"
+        ],
+        "step": "06",
+        "href": "/best-ui-&-ux-design-company-in-indore.html"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "default",
+    "title": "Ready to Build Something That<br>Actually Works for Your Business?",
+    "badge": null,
+    "parts": [
+     {
+      "type": "text",
+      "items": [
+       "Whether you're starting from scratch or looking to improve an existing digital presence, <strong>UltraModern Technologies Pvt Ltd</strong> has the team and the experience to help. From website development and mobile apps to SEO, software, and digital marketing tell us what you need, and we'll put together a plan that fits your goals and your budget. No hard sell. Just an honest conversation about what's right for your business."
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "contact",
+  "meta": {
+   "title": "Contact UltraModern Technologies | Best Website Development Company in Indore",
+   "description": "Get in touch with UltraModern Technologies the Best Website Development Company in Indore. Reach us for website development, software, mobile apps, or digital marketing. We respond within 24 hours.",
+   "keywords": "contact ultramodern technologies, best website development company in indore, website development company in indore, web development services in indore, software development company in indore, mobile app development company in indore, digital marketing company in indore, website design company in indore, get in touch ultramodern technologies, business enquiry indore it company",
+   "canonical": "https://www.ultramoderntechnologies.com/contact.html",
+   "jsonLd": [
+    {
+     "@context": "https://schema.org",
+     "@type": "LocalBusiness",
+     "name": "UltraModern Technologies Pvt Ltd.",
+     "image": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+     "url": "https://ultramoderntechnologies.com/",
+     "telephone": "+91-8640089400",
+     "email": "ultramoderntechnologies01@gmail.com",
+     "logo": "https://www.ultramoderntechnologies.com/IMG/ULTRAMODERN%20TECHNOLOGIES%20LOGO.png",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "565, Sapna Sangeeta Rd, nearby Axis Bank, Snehnagar",
+      "addressLocality": "Indore",
+      "addressRegion": "Madhya Pradesh",
+      "postalCode": "452001",
+      "addressCountry": "IN"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "22.7196",
+      "longitude": "75.8577"
+     },
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday"
+      ],
+      "opens": "10:00",
+      "closes": "19:00"
+     },
+     "sameAs": [
+      "https://www.facebook.com/people/Ultra-Modern-Technologies/61550345835440/",
+      "https://www.instagram.com/ultramodern_technologies/",
+      "https://www.linkedin.com/company/ultramodern-technology"
+     ],
+     "hasMap": "https://www.google.com/maps/place/UltraModern+Technologies+Pvt.+Ltd./data=!4m2!3m1!1s0x0:0x687eaae2d2acdc7a?sa=X&ved=1t:2428&ictx=111",
+     "priceRange": "$$"
+    }
+   ]
+  },
+  "hero": {
+   "title": "Get in Touch WithUltraModern Technologies",
+   "image": "/IMG/popup (1).jpeg",
+   "badge": "Our Team Responds Within 24 Hours",
+   "text": [
+    "Have a project in mind? Need a consultation? Or just want to know if we're the right fit for your business? We're happy to talk. Our team in Indore is available Monday to Saturday to answer your questions and help you take the next step."
+   ]
+  },
+  "sections": []
+ },
+ {
+  "slug": "career",
+  "meta": {
+   "title": "Careers at UltraModern Technologies | Join the Best Tech Team in Indore",
+   "description": "Join UltraModern Technologies — the Best Website Development Company in Indore. Explore exciting career opportunities in web development, digital marketing, software design, and more. Grow with a dynamic team.",
+   "keywords": "careers at ultramodern technologies, jobs in indore it company, web development jobs indore, digital marketing jobs indore, software developer career indore, mobile app developer jobs indore, it consulting careers, work with us indore, apply for jobs indore",
+   "canonical": "https://www.ultramoderntechnologies.com/careers.html"
+  },
+  "hero": {
+   "title": "Shape Tomorrow with UltraModern",
+   "image": "/IMG/popup (1).jpeg",
+   "badge": "We're Hiring! Join the Future",
+   "text": [
+    "We don't just build products — we build careers. Work on cutting-edge tech, learn from industry leaders, and grow beyond limits."
+   ]
+  },
+  "sections": []
+ }
+]

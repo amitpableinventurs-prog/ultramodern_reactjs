@@ -1,0 +1,9 @@
+# Uploaded images only: never execute scripts or list this folder
+Options -Indexes
+<FilesMatch "\.(php\d?|phtml|phar|pl|py|cgi|sh|asp|aspx|jsp|htaccess)$">
+  Require all denied
+</FilesMatch>
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Cache-Control "public, max-age=2592000"
+</IfModule>

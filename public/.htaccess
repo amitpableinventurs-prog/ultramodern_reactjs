@@ -1,0 +1,92 @@
+# UltraModern Technologies: React build (prerendered pages)
+# Upload the CONTENTS of /dist to the web root. Every page exists as <route>.html.
+
+Options -MultiViews -Indexes
+DirectorySlash Off
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# ---- internal build files are not public pages ----
+RewriteCond %{THE_REQUEST} \s/+(_snapshots|_template|_admin|_routes) [NC]
+RewriteRule ^ - [R=404,L]
+
+# ---- Force https + www (uncomment once SSL is confirmed on the host) ----
+# RewriteCond %{HTTPS} off [OR]
+# RewriteCond %{HTTP_HOST} !^www\. [NC]
+# RewriteRule ^ https://www.ultramoderntechnologies.com%{REQUEST_URI} [R=301,L]
+
+# ---- Legacy URLs from the old static site (301 keeps search rankings) ----
+RewriteCond %{THE_REQUEST} \s/+index(\.html?)?[\s?] [NC]
+RewriteRule ^index(\.html?)?$ / [R=301,L,NC]
+RewriteRule ^blog2(\.html?)?$ /services [R=301,L,NC]
+RewriteRule ^clinte(\.html?)?$ /clients [R=301,L,NC]
+RewriteRule ^Technology\ Trends\ and\ Insights(\.html?)?$ /technology-trends-and-insights [R=301,L,NC]
+RewriteRule ^The\ Future\ of\ Website\ and\ Mobile\ App\ Development\.*(\.html?)?$ /the-future-of-website-and-mobile-app-development [R=301,L,NC]
+RewriteRule ^What\ is\ business\ transformation(\.html?)?$ /what-is-business-transformation [R=301,L,NC]
+RewriteRule ^Why-Your-Business-Isn.+t-Showing-on-Google-Maps(\.html?)?$ /why-your-business-isnt-showing-on-google-maps [R=301,L,NC]
+# URLs that appeared in the old sitemap with different spelling/case
+RewriteRule ^best-sofware-testing-service-in-indore(\.html?)?$ /best-software-testing-service-in-indore [R=301,L,NC]
+RewriteRule ^restaurent-web-portal-development-service-in-indore(\.html?)?$ /restaurant-web-portal-development-service-in-indore [R=301,L,NC]
+RewriteRule ^Best-mobile-app-development-company-in-indore(\.html?)?$ /best-mobile-app-development-company-in-indore [R=301,L]
+RewriteRule ^custom-Software-Development-blog(\.html?)?$ /Custom-Software-Development-blog [R=301,L]
+RewriteRule ^Angular-developer-jobs(\.html?)?$ /angular-developer-jobs [R=301,L]
+RewriteRule ^mobile-app-development-company-in-indore(\.html?)?$ /best-mobile-app-development-company-in-indore [R=301,L,NC]
+
+# ---- /page.html  ->  /page ----
+RewriteCond %{THE_REQUEST} \s/+([^?\s]+?)\.html[\s?] [NC]
+RewriteCond %{REQUEST_URI} !^/404\.html$ [NC]
+RewriteRule ^ /%1 [R=301,L,NE]
+
+# ---- trailing slash  ->  no trailing slash ----
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)/$ /$1 [R=301,L]
+
+# ---- home page ----
+RewriteRule ^$ index.html [L]
+
+# ---- CMS (admin-managed content) ----
+# admin panel shell
+RewriteRule ^admin(/.*)?$ _admin.html [L]
+# live sitemap incl. blog posts, projects and job openings from the database
+RewriteRule ^sitemap\.xml$ api/sitemap.php [L]
+# blog / portfolio / careers: served with fresh database content + SEO tags
+RewriteRule ^(blog|portfolio|career)/?$ api/render.php?path=$1 [L,QSA]
+RewriteRule ^(portfolio|career)/([^/]+)/?$ api/render.php?path=$1/$2 [L,QSA]
+
+# ---- serve prerendered pages: /page -> page.html ----
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{DOCUMENT_ROOT}/$1.html -f
+RewriteRule ^(.+?)/?$ $1.html [L]
+
+# ---- other single-segment URLs: blog posts published from the admin (404 if none) ----
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/.]+)/?$ api/render.php?path=$1 [L,QSA]
+
+# ---- anything else: real 404 status with the branded page ----
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !^/(404\.html|api/)
+RewriteRule ^ - [R=404,L]
+</IfModule>
+
+# ---- Caching: hashed assets forever, HTML always fresh ----
+<IfModule mod_headers.c>
+  <FilesMatch "\.(js|css)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  <FilesMatch "\.(png|jpe?g|webp|svg|gif|ico|mp4|woff2?)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+  <FilesMatch "\.html$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/javascript application/json application/xml image/svg+xml
+</IfModule>
