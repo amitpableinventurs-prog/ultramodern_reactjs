@@ -835,7 +835,8 @@ a.contact-card:hover { transform: translateY(-4px); color: var(--ink); }
 /* ------------------------------------------------------------ footer */
 .site-footer { background: var(--navy); color: #94a9c4; padding-top: 80px; font-size: .93rem; }
 .footer-top { display: grid; grid-template-columns: 1.5fr repeat(5, minmax(0, 1fr)); gap: 32px; }
-.footer-brand img { height: 48px; width: auto; margin-bottom: 20px; }
+.footer-logo { display: inline-block; background: #fff; border-radius: 12px; padding: 10px 14px; margin-bottom: 20px; }
+.footer-logo img { display: block; height: 44px; width: auto; }
 .footer-brand p { max-width: 380px; }
 .footer-contact { display: grid; gap: 8px; margin: 18px 0; }
 .footer-contact a { color: #dbeafe; font-weight: 600; }

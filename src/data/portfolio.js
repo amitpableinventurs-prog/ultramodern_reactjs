@@ -216,6 +216,39 @@ export const projects = [
     ],
   },
   {
+    slug: 'rhythm-hospital',
+    name: 'Rhythm Multispeciality Hospital',
+    isNew: true,
+    category: ['Business Websites', 'Web Platforms'],
+    industry: 'Healthcare',
+    accent: '#0e8f8f',
+    tagline: 'Hospital website with appointments and an admin panel',
+    summary:
+      'A fast, SEO-ready website for Rhythm Multispeciality Hospital in Sironj (Vidisha, MP) where patients explore departments and doctors, request appointments, and reach the hospital in an emergency, with an admin panel for the hospital team.',
+    challenge:
+      'Patients in Sironj and nearby towns search on their phones for a trusted hospital, but the hospital had no proper online presence: no way to see its departments and doctors, request an appointment, or find it on Google.',
+    solution:
+      'We built a React website backed by a Node.js and MySQL API. Appointment requests and contact messages are saved and emailed to the hospital, the staff update the blog and photo gallery from an admin panel, and every page carries local-SEO meta tags, structured data and a sitemap.',
+    features: [
+      'Department and doctor pages',
+      'Online appointment requests and contact form with email alerts',
+      'Admin panel for appointments, messages, blog and gallery',
+      '24/7 emergency call and WhatsApp actions',
+      'Local SEO: meta tags, structured data and sitemap',
+      'Mobile-first design',
+    ],
+    tech: ['React', 'Vite', 'Node.js', 'Express', 'MySQL'],
+    platforms: ['Web', 'Mobile Web', 'Admin Panel'],
+    thumb: '/IMG/clients/rhythm-hospital.webp',
+    screenshots: [
+      real('rhythm-hospital', 'home.jpg', 'Home: book an appointment'),
+      real('rhythm-hospital', 'departments.jpg', 'Medical departments'),
+      real('rhythm-hospital', 'contact.jpg', 'Contact details and message form'),
+      real('rhythm-hospital', 'home-mobile.jpg', 'Home on mobile', 'mobile'),
+      real('rhythm-hospital', 'departments-mobile.jpg', 'Departments on mobile', 'mobile'),
+    ],
+  },
+  {
     slug: 'charzee',
     name: 'Charzee',
     isNew: true,

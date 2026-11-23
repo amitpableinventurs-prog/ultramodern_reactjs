@@ -144,7 +144,7 @@ function Header() {
       <header className={`site-header ${scrolled ? 'scrolled' : ''}`}>
         <div className="container header-inner">
           <Link to="/" className="brand" aria-label={`${company.short} home`}>
-            <img src="/IMG/umt-logo.png" alt={company.name} width="168" height="39" />
+            <img src="/IMG/umt-logo.png" alt={company.name} width="197" height="40" />
           </Link>
 
           <nav className="main-nav" aria-label="Main">
@@ -176,7 +176,7 @@ function Header() {
       <div className={`drawer-backdrop ${drawer ? 'show' : ''}`} onClick={() => setDrawer(false)} aria-hidden="true" />
       <aside className={`drawer ${drawer ? 'open' : ''}`} aria-hidden={!drawer} aria-label="Mobile menu">
         <div className="drawer-head">
-          <img src="/IMG/umt-logo.png" alt="" width="140" height="33" />
+          <img src="/IMG/umt-logo.png" alt="" width="162" height="33" />
           <button type="button" className="icon-btn" aria-label="Close menu" onClick={() => setDrawer(false)}><i className="fa-solid fa-xmark" /></button>
         </div>
         <nav className="drawer-nav">
@@ -218,7 +218,7 @@ function Footer() {
     <footer className="site-footer">
       <div className="container footer-top">
         <div className="footer-brand">
-          <img src="/IMG/umt-logo-white.png" alt={company.name} width="211" height="48" loading="lazy" />
+          <span className="footer-logo"><img src="/IMG/umt-logo.png" alt={company.name} width="216" height="44" loading="lazy" /></span>
           <p>We help businesses grow online with modern website design, custom software, mobile apps, SEO, digital marketing, and AI-powered solutions, serving clients across India and internationally.</p>
           <div className="footer-contact">
             <a href={company.phoneHref}><i className="fa-solid fa-phone" /> {company.phone}</a>
