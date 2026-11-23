@@ -68,8 +68,8 @@ function ClientsMarquee() {
           ))}
           <li className="client-logo client-more">
             <Link to="/clients">
-              <strong>+{clients.length - CLIENTS_ON_HOME} more</strong>
-              <span>& many more · View all <i className="fa-solid fa-arrow-right" /></span>
+              <strong>Many More</strong>
+              <span>View all clients <i className="fa-solid fa-arrow-right" /></span>
             </Link>
           </li>
         </ul>

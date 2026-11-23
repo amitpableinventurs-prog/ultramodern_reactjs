@@ -13,6 +13,12 @@
  * current SQLite contents and adds one row to the `backup_log` collection.
  * It then exports every collection of that database to
  * backups/mongo/<db>-<YYYY-MM-DD>/<collection>.json (mongoimport --jsonArray format).
+ *
+ * Single-collection mode:  npm run backup:mongo:single   (or add --single)
+ *   Puts everything into ONE collection (default `cms_backup`, env MONGO_COLLECTION).
+ *   Every document has `type` (project | post | job | admin) and `_id` "<type>:<slug or id>".
+ *   Exports it to one file: backups/mongo/<db>-<collection>-<YYYY-MM-DD>.json
+ *   Restore: mongoimport --db ultramodern --collection cms_backup --jsonArray --file <that file>
  */
 import { DatabaseSync } from 'node:sqlite';
 import { existsSync, mkdirSync, writeFileSync } from 'node:fs';
@@ -67,9 +73,33 @@ const collections = {
 };
 sqlite.close();
 
+const single = process.argv.includes('--single');
+const singleName = process.env.MONGO_COLLECTION || 'cms_backup';
+const typeOf = { projects: 'project', posts: 'post', jobs: 'job', admins: 'admin' };
+
 const client = await MongoClient.connect(uri, { serverSelectionTimeoutMS: 5000 });
 try {
   const db = client.db(dbName);
+  if (single) {
+    const backedUpAt = new Date();
+    const docs = Object.entries(collections).flatMap(([name, list]) => list.map((d) => ({
+      ...d,
+      _id: `${typeOf[name]}:${d.slug ?? d._id}`,
+      type: typeOf[name],
+      backed_up_at: backedUpAt,
+    })));
+    const col = db.collection(singleName);
+    await col.deleteMany({});
+    if (docs.length) await col.insertMany(docs);
+    const counts = Object.fromEntries(Object.entries(collections).map(([n, l]) => [typeOf[n], l.length]));
+    console.log(`Backed up ${sqlitePath} -> ${uri.replace(/\/\/[^@]*@/, '//***@')}/${dbName}.${singleName} (${docs.length} documents)`);
+    console.table(counts);
+    const outDir = path.join(root, 'backups', 'mongo');
+    mkdirSync(outDir, { recursive: true });
+    const file = path.join(outDir, `${dbName}-${singleName}-${backedUpAt.toISOString().slice(0, 10)}.json`);
+    writeFileSync(file, EJSON.stringify(await col.find().sort({ type: 1, sort_order: 1, _id: 1 }).toArray(), null, 2, { relaxed: false }));
+    console.log(`Exported ${file}`);
+  } else {
   const counts = {};
   for (const [name, docs] of Object.entries(collections)) {
     const col = db.collection(name);
@@ -91,6 +121,7 @@ try {
     writeFileSync(path.join(outDir, `${name}.json`), EJSON.stringify(docs, null, 2, { relaxed: false }));
   }
   console.log(`Exported JSON files to ${outDir}`);
+  }
 } finally {
   await client.close();
 }

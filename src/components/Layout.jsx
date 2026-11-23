@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom';
 import { company, jobLinks, serviceGroups } from '../data/site.js';
-import { ContactForm } from './Forms.jsx';
+import { ConsultationPanel } from './Forms.jsx';
 import Chatbot from './Chatbot.jsx';
 
 const NAV = [
@@ -284,21 +284,9 @@ function QuoteModal({ open, onClose }) {
   if (!open) return null;
   return (
     <div className="modal-backdrop" onClick={(e) => e.target === e.currentTarget && onClose()}>
-      <div className="modal" role="dialog" aria-modal="true" aria-labelledby="quote-title" ref={ref}>
-        <button type="button" className="icon-btn modal-close" aria-label="Close" onClick={onClose}><i className="fa-solid fa-xmark" /></button>
-        <div className="modal-side">
-          <span className="eyebrow light">Free consultation</span>
-          <h2 id="quote-title">Let’s plan your project</h2>
-          <ul className="ticks light">
-            <li>Reply within one business day</li>
-            <li>Clear scope, timeline, and quote</li>
-            <li>No obligation, no hard sell</li>
-          </ul>
-          <a href={company.phoneHref} className="modal-phone"><i className="fa-solid fa-phone" /> {company.phone}</a>
-        </div>
-        <div className="modal-body">
-          <ContactForm compact source="quote popup" />
-        </div>
+      <div className="modal consult" role="dialog" aria-modal="true" aria-labelledby="quote-title" ref={ref}>
+        <button type="button" className="modal-close" aria-label="Close" onClick={onClose}><i className="fa-solid fa-xmark" /></button>
+        <ConsultationPanel source="quote popup" headingId="quote-title" />
       </div>
     </div>
   );

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Seo, { breadcrumbLd, organizationLd } from '../components/Seo.jsx';
 import staticMeta from '../data/generated/static-meta.json';
-import { ContactForm } from '../components/Forms.jsx';
+import { ConsultationPanel } from '../components/Forms.jsx';
 import { PageHero, Reveal, SectionHead } from '../components/ui.jsx';
 import { company } from '../data/site.js';
 
@@ -40,13 +40,15 @@ export default function Contact() {
       </section>
 
       <section className="section">
-        <div className="container split contact-split">
-          <Reveal className="form-card">
-            <span className="eyebrow">Business enquiry</span>
-            <h2>How can we help you?</h2>
-            <p className="muted">Tell us about your industry, what you need built, and when you’d like to start. We’ll take it from there.</p>
-            <ContactForm source="contact page" />
+        <div className="container">
+          <Reveal className="consult consult-card">
+            <ConsultationPanel source="contact page" />
           </Reveal>
+        </div>
+      </section>
+
+      <section className="section tint">
+        <div className="container split contact-split">
           <div>
             <SectionHead eyebrow="Our offices" title="Visit us in Indore" lead="Our offices are open Monday to Saturday. You’re welcome to walk in for a consultation." />
             <div className="office-tabs" role="tablist" aria-label="Offices">
@@ -57,6 +59,8 @@ export default function Contact() {
                 </button>
               ))}
             </div>
+          </div>
+          <div>
             <div className="map-frame">
               <iframe key={o.embed} title={`Map: ${o.name}, ${o.city}`} src={o.embed} loading="lazy" referrerPolicy="no-referrer-when-downgrade" allowFullScreen />
             </div>

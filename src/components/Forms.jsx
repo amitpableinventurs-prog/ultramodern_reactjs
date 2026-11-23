@@ -10,10 +10,10 @@ async function sendEmail(template, params) {
   return emailjs.send(emailjsConfig.serviceId, template, params, { publicKey: emailjsConfig.publicKey });
 }
 
-function Field({ label, error, children, full }) {
+function Field({ label, error, children, full, hideLabel }) {
   return (
     <label className={`field ${full ? 'full' : ''} ${error ? 'has-error' : ''}`}>
-      <span className="field-label">{label}</span>
+      <span className={hideLabel ? 'field-label sr-only' : 'field-label'}>{label}</span>
       {children}
       {error && <span className="field-error">{error}</span>}
     </label>
@@ -32,9 +32,10 @@ function Status({ status }) {
 
 /* ------------------------------------------------------------ Enquiry form */
 /** Enquiry form. Optional props turn it into another kind of request (e.g. a product demo): `services`
- *  replaces the service list, and the labels change the wording. Submissions go to the same EmailJS template. */
+ *  replaces the service list, and the labels change the wording. Submissions go to the same EmailJS template.
+ *  `popup` = the "Get a Free Consultation" popup look: one column, placeholder-only fields, "I'm not a robot". */
 export function ContactForm({
-  compact = false, defaultService = '', source = 'website', services = enquiryServices,
+  compact = false, popup = false, defaultService = '', source = 'website', services = enquiryServices,
   serviceLabel = 'Service', messageLabel = 'Project details', messagePlaceholder = 'What would you like to build or improve?', submitLabel = 'Send enquiry',
 }) {
   const [values, setValues] = useState({ name: '', email: '', phone: '', service: defaultService, message: '', consent: false });
@@ -78,36 +79,57 @@ export function ContactForm({
   };
 
   return (
-    <form className={`form ${compact ? 'compact' : ''}`} onSubmit={onSubmit} noValidate>
+    <form className={`form ${compact ? 'compact' : ''} ${popup ? 'form-popup' : ''}`} onSubmit={onSubmit} noValidate>
       <div className="form-grid">
-        <Field label="Full name *" error={errors.name}>
-          <input type="text" autoComplete="name" placeholder="Your name" value={values.name} onChange={set('name')} />
+        <Field label="Full name *" error={errors.name} hideLabel={popup}>
+          <input type="text" autoComplete="name" placeholder={popup ? 'Name' : 'Your name'} value={values.name} onChange={set('name')} />
         </Field>
-        <Field label="Email *" error={errors.email}>
-          <input type="email" autoComplete="email" placeholder="you@company.com" value={values.email} onChange={set('email')} />
+        <Field label="Email *" error={errors.email} hideLabel={popup}>
+          <input type="email" autoComplete="email" placeholder={popup ? 'Email' : 'you@company.com'} value={values.email} onChange={set('email')} />
         </Field>
-        <Field label="Phone *" error={errors.phone}>
-          <input type="tel" autoComplete="tel" inputMode="numeric" placeholder="10-digit mobile number" value={values.phone} onChange={set('phone')} />
+        <Field label="Phone *" error={errors.phone} hideLabel={popup}>
+          <input type="tel" autoComplete="tel" inputMode="numeric" placeholder={popup ? 'Phone No' : '10-digit mobile number'} value={values.phone} onChange={set('phone')} />
         </Field>
-        <Field label={`${serviceLabel} *`} error={errors.service}>
+        <Field label={`${serviceLabel} *`} error={errors.service} hideLabel={popup}>
           <select value={values.service} onChange={set('service')}>
-            <option value="" disabled>Select a {serviceLabel.toLowerCase()}</option>
+            <option value="" disabled>{popup ? `Select ${serviceLabel}` : `Select a ${serviceLabel.toLowerCase()}`}</option>
             {services.map((s) => <option key={s} value={s}>{s}</option>)}
           </select>
         </Field>
-        <Field label={`${messageLabel} *`} error={errors.message} full>
-          <textarea rows={compact ? 3 : 4} placeholder={messagePlaceholder} value={values.message} onChange={set('message')} />
+        <Field label={`${messageLabel} *`} error={errors.message} full hideLabel={popup}>
+          <textarea rows={compact ? 3 : 4} placeholder={popup ? 'Message' : messagePlaceholder} value={values.message} onChange={set('message')} />
         </Field>
       </div>
       <label className={`check ${errors.consent ? 'has-error' : ''}`}>
         <input type="checkbox" checked={values.consent} onChange={set('consent')} />
-        <span>I agree to be contacted about my enquiry as per the <Link to="/privacy-policy">privacy policy</Link>.</span>
+        {popup
+          ? <span>I&apos;m not a robot</span>
+          : <span>I agree to be contacted about my enquiry as per the <Link to="/privacy-policy">privacy policy</Link>.</span>}
       </label>
-      <button className="btn btn-primary btn-block" type="submit" disabled={sending}>
-        {sending ? <><i className="fa-solid fa-spinner fa-spin" /> Sending…</> : <>{submitLabel} <i className="fa-solid fa-paper-plane" /></>}
+      <button className={`btn btn-primary btn-block ${popup ? 'btn-submit' : ''}`} type="submit" disabled={sending}>
+        {sending ? <><i className="fa-solid fa-spinner fa-spin" /> Sending…</>
+          : popup ? 'SUBMIT' : <>{submitLabel} <i className="fa-solid fa-paper-plane" /></>}
       </button>
       <Status status={status} />
     </form>
+  );
+}
+
+/* ------------------------------------------------------------ Consultation panel */
+/** "Get a Free Consultation" form on the left, "Get in touch" artwork on the right.
+ *  Used by the enquiry popup and the Contact page. */
+export function ConsultationPanel({ source, headingId, as: Heading = 'h2' }) {
+  return (
+    <>
+      <div className="consult-body">
+        <Heading id={headingId} className="consult-title">Get a Free Consultation</Heading>
+        <ContactForm compact popup source={source} />
+      </div>
+      <div className="consult-side">
+        <p className="consult-side-title">GET IN <span>TOUCH</span></p>
+        <img src="/IMG/popup-get-in-touch.webp" alt="UltraModern Technologies" width="1270" height="900" loading="lazy" />
+      </div>
+    </>
   );
 }
 

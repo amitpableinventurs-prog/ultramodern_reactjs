@@ -13,8 +13,10 @@
     "preview": "vite preview",
     "seo:check": "node scripts/seo-audit.mjs",
     "api": "php -S 127.0.0.1:8091 -t public public/api/dev-router.php",
+    "backup:mysql": "php scripts/backup-mysql.php",
     "cms:seed": "node scripts/build-cms-seed.mjs",
-    "backup:mongo": "node --no-warnings=ExperimentalWarning scripts/backup-to-mongo.mjs"
+    "backup:mongo": "node --no-warnings=ExperimentalWarning scripts/backup-to-mongo.mjs",
+    "backup:mongo:single": "node --no-warnings=ExperimentalWarning scripts/backup-to-mongo.mjs --single"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
