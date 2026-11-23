@@ -30,6 +30,7 @@ export default function Clients() {
                   <span className="clients-wall-logo"><img src={c.logo} alt={c.name} loading="lazy" /></span>
                   <strong>{c.name}</strong>
                   <small>{c.industry}</small>
+                  {c.about && <p className="clients-wall-about">{c.about}</p>}
                   {quote && <q>{quote.text.split('. ')[0].replace(/\.$/, '')}.</q>}
                   {c.project && <span className="clients-wall-link">View case study <i className="fa-solid fa-arrow-right" /></span>}
                 </>

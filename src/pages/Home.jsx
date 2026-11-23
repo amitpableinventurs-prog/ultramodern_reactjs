@@ -260,12 +260,12 @@ function Testimonials() {
           <div className="t-track" style={{ transform: `translateX(-${i * 100}%)` }}>
             {testimonials.map((t) => (
               <figure key={t.name} className="testimonial">
-                <div className="stars" aria-label="5 out of 5 stars">{'★★★★★'}</div>
-                <blockquote>“{t.text}”</blockquote>
                 <figcaption>
                   <img src={t.avatar} alt="" loading="lazy" width="52" height="52" className={t.logo ? 'is-logo' : undefined} />
                   <span><strong>{t.name}</strong>{t.role}</span>
                 </figcaption>
+                <div className="stars" aria-label="5 out of 5 stars">{'★★★★★'}</div>
+                <blockquote>“{t.text}”</blockquote>
               </figure>
             ))}
           </div>
